@@ -4,6 +4,9 @@
 
 ## 文章目录
 
+- 000 [FFB 常见问答](https://hijiangchuan.com/paulgraham/000-02-FFB-FAQ/) (2003年02月)
+- 000 [到目前为止，还不错](https://hijiangchuan.com/paulgraham/000-01-So-Far-So-Good/) (2003年08月)
+- 000 [夏季创始人计划](https://hijiangchuan.com/paulgraham/000-03-Summer-Founders-Program/) (2005年03月)
 - 001 [今年我们可以在加利福尼亚州废除死刑](https://hijiangchuan.com/paulgraham/001-This-Year-We-Can-End-the-Death-Penalty-in-California/) (2016年11月)
 - 002 [自底向上编程](https://hijiangchuan.com/paulgraham/002-Programming-Bottom-Up/) (1993年01月)
 - 003 [ANSI Common Lisp 第一章](https://hijiangchuan.com/paulgraham/003-Chapter-1-of-Ansi-Common-Lisp/) (1995年01月)
@@ -146,7 +149,3 @@
 - `translations/` - 中文翻译文件
 - `originals/` - 英文原文文件
 
-## 同步说明
-
-本仓库通过 GitHub Actions 自动同步来自 [paulgraham-cn-source](https://github.com/HiJiangChuan/paulgraham-cn-source) 的更新。
-同步时会自动去掉 YAML front matter 信息。

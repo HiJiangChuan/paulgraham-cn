@@ -1,6 +1,4 @@
 
-
-
 # 快照：1998年6月的Viaweb
 
 2012年1月
@@ -11,7 +9,7 @@
 
 那时的浏览器（IE6还要等三年才问世）字体选择有限且不支持抗锯齿。要想呈现精美排版，必须将文字内容转为图片显示。
 
-细心的读者会发现Viaweb与[Y Combinator](http://ycombinator.com)的标识存在某种相似性。创办YC时我们故意设计了这个内部玩笑。令人惊讶的是，虽然红色圆形是最基础的图形元素，Viaweb创立时却鲜有公司采用它作为logo——后来我才明白[其中缘由](https://paulgraham.com/zero.html)。
+细心的读者会发现Viaweb与[Y Combinator](http://ycombinator.com)的标识存在某种相似性。创办YC时我们故意设计了这个内部玩笑。令人惊讶的是，虽然红色圆形是最基础的图形元素，Viaweb创立时却鲜有公司采用它作为logo——后来我才明白[其中缘由](https://hijiangchuan.com/paulgraham/EXTRA030-Mitsubishi-Zero)。
 
 浏览[公司页面](http://www.ycombinator.com/viaweb/com.html)时，你会注意到名为John McArtyem的神秘人物。罗伯特·莫里斯（即Rtm）因[蠕虫病毒事件](http://en.wikipedia.org/wiki/Morris_worm)对公众曝光极度抗拒，拒绝在网站署真名。最终我们达成妥协：可以使用他的履历但隐去姓名。如今他在这方面已经[放松](http://ycombinator.com/people.html)许多。
 
@@ -19,7 +17,7 @@
 
 （特雷弗还以[Trevino Bagwell](http://ycombinator.com/viaweb/tlbwebdesign.html)的化名出现在商户可雇佣的网页设计师名录中。我们安插这个"托儿"是为防范竞争对手骚扰设计师名单。本以为他设计的logo能劝退真实客户，结果事与愿违。）
 
-90年代获取用户必须依靠报刊杂志曝光，远不如现今的线上获客渠道丰富。为此我们每月支付[公关公司](https://paulgraham.com/submarine.html)1.6万美元争取媒体露出。幸运的是记者们[很买账](http://ycombinator.com/viaweb/presquot.html)。
+90年代获取用户必须依靠报刊杂志曝光，远不如现今的线上获客渠道丰富。为此我们每月支付[公关公司](https://hijiangchuan.com/paulgraham/045-The-Submarine)1.6万美元争取媒体露出。幸运的是记者们[很买账](http://ycombinator.com/viaweb/presquot.html)。
 
 在关于[搜索引擎流量获取建议](http://ycombinator.com/viaweb/se.html)的页面中（当时"SEO"这个术语尚未诞生），我们列出7个重要引擎：雅虎、AltaVista、Excite、WebCrawler、InfoSeek、Lycos和HotBot。发现漏了谁吗？谷歌在那年9月才注册成立。
 
