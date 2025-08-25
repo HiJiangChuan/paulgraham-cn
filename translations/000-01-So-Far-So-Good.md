@@ -64,6 +64,8 @@
 ```html
 <a href="http://sea2ws.com/gp/default.asp?id=011">   
 <img src="http://pharmhere1.com/pics/gp1.jpg"></a>
+```
+
 但就算如此少的 HTML，仍足够识别为垃圾邮件。换句话说，你可以通过形式识别出这种垃圾邮件。
 
 如果这些垃圾邮件中除了链接和图片标签之外还有其他内容，通常只是“干扰物”——用来欺骗过滤器的随机文本。到目前为止，这类干扰无效，但我们不能假设它会一直无效。确实有方法生成更合适的文本，以抵消链接和图片的垃圾权重。
@@ -74,12 +76,11 @@
 
 最难抓住的垃圾邮件，是我所谓的“未来垃圾邮件”——一些简短的纯文本加一个 URL：
 
-cpp
-复制
-编辑
+```
 Hey there. Check out the following:
 http://www.blackboxhosting.com/foo
-The future has arrived.
+```
+
 我现在经常能看到这种垃圾邮件。我仍然能抓住其中绝大多数——光是邮件头就足以识别大部分当前的垃圾邮件——但那0.3%漏网的，大多是“未来垃圾邮件”。
 
 在“未来垃圾邮件”里，推销内容被推后了一步。不再像传统垃圾邮件那样直接写在邮件中，而是藏在点击之后的网页里。
@@ -126,7 +127,7 @@ The future has arrived.
 12_F.R.E.E._Hamburgers & Half_Price_Steaks
 这已经触及了“合理否认”的极限。你不得不怀疑，他们在一边声称收件人是自愿的，一边却采取如此明显的手段来欺骗过滤器。下一步是什么？来自 0ma_ha 5teakz 的邮件？
 
-http://www.paulgraham.com/spam2.html
+http://www.paulgraham.com/sofar.html
 
 
 
