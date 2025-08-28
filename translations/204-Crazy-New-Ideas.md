@@ -60,5 +60,5 @@ https://paulgraham.com/newideas.html
 
 
 更新记录：
-- 2025-07-16 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-07-16 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
 

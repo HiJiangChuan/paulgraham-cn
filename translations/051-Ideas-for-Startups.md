@@ -168,4 +168,4 @@ https://paulgraham.com/ideas.html
 
 
 更新记录：
-- 2025-01-06 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-01-06 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

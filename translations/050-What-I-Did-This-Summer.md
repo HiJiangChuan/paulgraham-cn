@@ -122,4 +122,4 @@ https://paulgraham.com/sfp.html
 
 
 更新记录：
-- 2025-03-04 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-03-04 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

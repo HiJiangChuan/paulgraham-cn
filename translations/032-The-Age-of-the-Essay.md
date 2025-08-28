@@ -166,4 +166,4 @@ https://paulgraham.com/essay.html
 
 
 更新记录：
-- 2025-01-31 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-01-31 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

@@ -32,4 +32,4 @@ https://paulgraham.com/version1.html
 
 
 更新记录：
-- 2024-12-15 HiJiangChuan 初稿翻译，术语待验证；
+- 2024-12-15 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

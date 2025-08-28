@@ -36,4 +36,4 @@ https://paulgraham.com/hiresfund.html
 
 
 更新记录：
-- 2025-06-01 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-06-01 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

@@ -52,5 +52,5 @@ https://paulgraham.com/do.html
 
 
 更新记录：
-- 2024-06-20 HiJiangChuan 初稿翻译，术语待验证；
+- 2024-06-20 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
 - 2025-06-12 梳理全文

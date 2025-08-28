@@ -24,4 +24,4 @@ https://paulgraham.com/ladder.html
 
 
 更新记录：
-- 2025-02-18 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-02-18 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

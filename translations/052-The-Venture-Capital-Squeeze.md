@@ -64,4 +64,4 @@ https://paulgraham.com/vcsqueeze.html
 
 
 更新记录：
-- 2025-03-26 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-03-26 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

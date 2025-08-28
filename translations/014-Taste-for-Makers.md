@@ -182,4 +182,4 @@ https://paulgraham.com/taste.html
 
 
 更新记录：
-- 2024-12-05 HiJiangChuan 初稿翻译，术语待验证；
+- 2024-12-05 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

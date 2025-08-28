@@ -102,5 +102,5 @@ https://paulgraham.com/richnow.html
 
 
 更新记录：
-- 2025-07-21 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-07-21 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
 - 2025-07-21 重新梳理，修正用词；

@@ -47,4 +47,4 @@ https://paulgraham.com/ffb.html
 
 
 更新记录：
-- 2024-12-27 HiJiangChuan 初稿翻译，术语待验证；
+- 2024-12-27 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

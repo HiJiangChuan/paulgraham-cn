@@ -30,4 +30,4 @@ https://paulgraham.com/want.html
 
 
 更新记录：
-- 2023-08-20 HiJiangChuan 初稿翻译，术语待验证；
+- 2023-08-20 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

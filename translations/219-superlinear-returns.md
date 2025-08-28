@@ -158,4 +158,4 @@ https://paulgraham.com/superlinear.html
 
 
 更新记录：
-- 2025-05-08 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-05-08 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

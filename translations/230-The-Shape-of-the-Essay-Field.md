@@ -43,5 +43,5 @@ https://paulgraham.com/essayfield.html
 
 
 更新记录：
-- 2025-06-11 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-06-11 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
 - 2025-06-12 重新梳理，修正用词；

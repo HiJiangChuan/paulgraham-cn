@@ -274,7 +274,7 @@ Sam Altman那时也开始频繁出现在我们办公室。他最早只是来指�
 
 
 更新记录：
-- 2025-07-24 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-07-24 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
 
 原文链接：  
 https://paulgraham.com/worked.html

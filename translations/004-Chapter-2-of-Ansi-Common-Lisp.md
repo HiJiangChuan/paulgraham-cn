@@ -634,4 +634,4 @@ https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1743250771&
 
 
 更新记录：
-- 2024-12-09 HiJiangChuan 初稿翻译，术语待验证；
+- 2024-12-09 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

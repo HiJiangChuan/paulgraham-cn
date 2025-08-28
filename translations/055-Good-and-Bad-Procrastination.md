@@ -72,4 +72,4 @@ https://paulgraham.com/procrastination.html
 
 
 更新记录：
-- 2025-03-17 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-03-17 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

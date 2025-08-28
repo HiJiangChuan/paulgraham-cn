@@ -124,5 +124,5 @@ https://paulgraham.com/think.html
 
 
 更新记录：
-- 2025-08-07 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-08-07 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
 

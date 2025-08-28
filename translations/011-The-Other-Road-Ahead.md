@@ -88,4 +88,4 @@ Graham认为，服务器端软件是软件开发的"另一条道路"，它提供
 
 
 更新记录：
-- 2025-02-14 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-02-14 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

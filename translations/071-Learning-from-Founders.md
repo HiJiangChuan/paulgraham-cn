@@ -30,4 +30,4 @@ https://paulgraham.com/foundersatwork.html
 
 
 更新记录：
-- 2024-04-09 HiJiangChuan 初稿翻译，术语待验证； 
+- 2024-04-09 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证； 

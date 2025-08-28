@@ -61,5 +61,5 @@ https://paulgraham.com/heresy.html
 
 更新记录：
 
-- 2025-06-19 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-06-19 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
 - 2025-06-19  重新梳理，修正用词；

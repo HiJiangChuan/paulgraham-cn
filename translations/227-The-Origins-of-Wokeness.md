@@ -169,5 +169,5 @@ https://paulgraham.com/woke.html
 
 
 更新记录：
-- 2025-05-21 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-05-21 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
 - 2025-06-11 重新润色修改不通顺和有歧义的地方；

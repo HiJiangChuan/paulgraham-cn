@@ -127,4 +127,4 @@ https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1743250771&
 
 
 更新记录：
-- 2025-01-12 HiJiangChuan 初稿翻译，术语待验证；
+- 2025-01-12 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
