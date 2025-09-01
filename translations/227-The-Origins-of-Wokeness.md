@@ -164,8 +164,7 @@
 
 感谢Sam Altman、Ben Miller、Daniel Gackle、Robin Hanson、Jessica Livingston、Greg Lukianoff、Harj Taggar、Garry Tan和Tim Urban阅读草稿。
 
-**英文原文：** [paulgraham.com/woke.html](https://paulgraham.com/woke.html)
-**中文版本：** [hijiangchuan.com/227-the-origins-of-wokeness](https://hijiangchuan.com/227-the-origins-of-wokeness)
+英文版：[paulgraham.com/woke.html](https://paulgraham.com/woke.html)｜中文版：[hijiangchuan.com/227-the-origins-of-wokeness](https://hijiangchuan.com/227-the-origins-of-wokeness)
 
 
 

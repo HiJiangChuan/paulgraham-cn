@@ -239,8 +239,7 @@ PayPal刚刚躲过了这颗子弹。在他们与X.com合并后，新CEO想要转
 
 感谢Sam Altman、Jessica Livingston、Greg McAdoo和Robert Morris阅读本文的草稿。[评论](http://reddit.com/info/me0s/comments)本文。
 
-**英文原文：** [paulgraham.com/startupmistakes.html](https://paulgraham.com/startupmistakes.html)
-**中文版本：** [hijiangchuan.com/069-the-18-mistakes-that-kill-startups](https://hijiangchuan.com/069-the-18-mistakes-that-kill-startups)
+英文版：[paulgraham.com/startupmistakes.html](https://paulgraham.com/startupmistakes.html)｜中文版：[hijiangchuan.com/069-the-18-mistakes-that-kill-startups](https://hijiangchuan.com/069-the-18-mistakes-that-kill-startups)
 
 
 

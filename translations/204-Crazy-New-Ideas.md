@@ -55,8 +55,7 @@
 
 感谢Trevor Blackwell、Patrick Collison、Suhail Doshi、Daniel Gackle、Jessica Livingston 和 Robert Morris 对本文草稿的阅读和反馈。
 
-**英文原文：** [paulgraham.com/newideas.html](https://paulgraham.com/newideas.html)
-**中文版本：** [hijiangchuan.com/204-Crazy-New-Ideas](https://hijiangchuan.com/204-Crazy-New-Ideas)
+英文版：[paulgraham.com/newideas.html](https://paulgraham.com/newideas.html)｜中文版：[hijiangchuan.com/204-Crazy-New-Ideas](https://hijiangchuan.com/204-Crazy-New-Ideas)
 
 
 

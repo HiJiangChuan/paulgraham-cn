@@ -192,8 +192,7 @@ ABQ
 
 感谢Sarah Harlin、Trevor Blackwell、Jessica Livingston、Robert Morris、Eric Raymond和Bob van der Zwaan阅读了这篇文章的草稿，感谢Lisa Randall、Jackie McDonough、Ryan Stanley和Joel Rainey关于异端的对话。不用说他们对文章中表达的观点，特别是未表达的观点不负任何责任。
 
-**英文原文：** [paulgraham.com/say.html](https://paulgraham.com/say.html)
-**中文版本：** [hijiangchuan.com/026-what-you-cant-say](https://hijiangchuan.com/026-what-you-cant-say)
+英文版：[paulgraham.com/say.html](https://paulgraham.com/say.html)｜中文版：[hijiangchuan.com/026-what-you-cant-say](https://hijiangchuan.com/026-what-you-cant-say)
 
 更新记录：
 - 2025-04-01 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

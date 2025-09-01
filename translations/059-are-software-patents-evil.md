@@ -157,8 +157,7 @@ Forgent 的首席执行官，最臭名昭著的专利流氓之一，说他的公
 
 感谢 Dan Bloomberg、Paul Buchheit、Sarah Harlin、Jessica Livingston 和 Peter Norvig 阅读本文草稿，感谢 Joel Lehrer 和 Peter Eng 回答我的专利问题，感谢 Ankur Pansari 邀请我演讲。
 
-**英文原文：** [paulgraham.com/softwarepatents.html](https://paulgraham.com/softwarepatents.html)
-**中文版本：** [hijiangchuan.com/059-are-software-patents-evil](https://hijiangchuan.com/059-are-software-patents-evil)
+英文版：[paulgraham.com/softwarepatents.html](https://paulgraham.com/softwarepatents.html)｜中文版：[hijiangchuan.com/059-are-software-patents-evil](https://hijiangchuan.com/059-are-software-patents-evil)
 
 更新记录：
 - 2024-12-08 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

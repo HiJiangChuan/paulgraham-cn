@@ -19,8 +19,7 @@
 
 从某种意义上说这是高尚的，因为我认为创业公司是好事。但真正激励我们的是那种完全无关道德的黑客欲望，就像任何黑客看到某个复杂设备时，意识到只需一个小小的调整就能让它运行得更高效。在这个案例中，这个设备就是世界经济，幸运的是它是开源的。
 
-**英文原文：** [paulgraham.com/whyyc.html](https://paulgraham.com/whyyc.html)
-**中文版本：** [hijiangchuan.com/057-why-yc](https://hijiangchuan.com/057-why-yc)
+英文版：[paulgraham.com/whyyc.html](https://paulgraham.com/whyyc.html)｜中文版：[hijiangchuan.com/057-why-yc](https://hijiangchuan.com/057-why-yc)
 
 更新记录：
 - 2025-03-21 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

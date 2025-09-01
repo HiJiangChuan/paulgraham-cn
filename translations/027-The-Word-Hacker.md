@@ -67,8 +67,7 @@
 
 （这张[图片](https://hijiangchuan.com/paulgraham/EXTRA025-Jobs-and-Wozniak-with-a-Blue-Box)展示的是史蒂夫·乔布斯与史蒂夫·沃兹尼亚克和一台“blue box”。照片由 Margret Wozniak 拍摄。经史蒂夫·沃兹尼亚克许可转载。）
 
-**英文原文：** [paulgraham.com/gba.html](https://paulgraham.com/gba.html)
-**中文版本：** [hijiangchuan.com/027-The-Word-Hacker](https://hijiangchuan.com/027-The-Word-Hacker)
+英文版：[paulgraham.com/gba.html](https://paulgraham.com/gba.html)｜中文版：[hijiangchuan.com/027-The-Word-Hacker](https://hijiangchuan.com/027-The-Word-Hacker)
 
 更新记录：
 - 2025-03-26 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

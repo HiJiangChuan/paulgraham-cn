@@ -45,8 +45,7 @@
 
 感谢 Trevor Blackwell、Steve Blank、Patrick Collison、Jessica Livingston、Amjad Masad 和 Robert Morris 阅读本稿并提供反馈。
 
-**英文原文：** [paulgraham.com/fn.html](https://paulgraham.com/fn.html)
-**中文版本：** [hijiangchuan.com/205-fierce-nerds](https://hijiangchuan.com/205-fierce-nerds)
+英文版：[paulgraham.com/fn.html](https://paulgraham.com/fn.html)｜中文版：[hijiangchuan.com/205-fierce-nerds](https://hijiangchuan.com/205-fierce-nerds)
 
 
 

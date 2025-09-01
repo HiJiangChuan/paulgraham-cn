@@ -23,8 +23,7 @@
 
 感谢Sam Altman、Trevor Blackwell、Patrick Collison、Jessica Livingston和Robert Morris审阅本文草稿。
 
-**英文原文：** [paulgraham.com/selfindulgence.html](https://paulgraham.com/selfindulgence.html)
-**中文版本：** [hijiangchuan.com/126-how-to-lose-time-and-money](https://hijiangchuan.com/126-how-to-lose-time-and-money)
+英文版：[paulgraham.com/selfindulgence.html](https://paulgraham.com/selfindulgence.html)｜中文版：[hijiangchuan.com/126-how-to-lose-time-and-money](https://hijiangchuan.com/126-how-to-lose-time-and-money)
 
 
 

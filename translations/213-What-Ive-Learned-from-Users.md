@@ -71,8 +71,7 @@ YC创始人不仅相互激励，更会彼此扶持。这是关于创业创始人
 
 感谢Trevor Blackwell、Jessica Livingston、Harj Taggar和Garry Tan审阅本文草稿。
 
-**英文原文：** [paulgraham.com/users.html](https://paulgraham.com/users.html)
-**中文版本：** [hijiangchuan.com/213-what-ive-learned-from-users](https://hijiangchuan.com/213-what-ive-learned-from-users)
+英文版：[paulgraham.com/users.html](https://paulgraham.com/users.html)｜中文版：[hijiangchuan.com/213-what-ive-learned-from-users](https://hijiangchuan.com/213-what-ive-learned-from-users)
 
 
 

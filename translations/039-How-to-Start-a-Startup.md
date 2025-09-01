@@ -296,8 +296,7 @@
 
 感谢Trevor Blackwell、Sarah Harlin、Jessica Livingston和Robert Morris阅读这篇文章的草稿，感谢Steve Melendez和Gregory Price邀请我演讲。
 
-**英文原文：** [paulgraham.com/start.html](https://paulgraham.com/start.html)
-**中文版本：** [hijiangchuan.com/039-how-to-start-a-startup](https://hijiangchuan.com/039-how-to-start-a-startup)
+英文版：[paulgraham.com/start.html](https://paulgraham.com/start.html)｜中文版：[hijiangchuan.com/039-how-to-start-a-startup](https://hijiangchuan.com/039-how-to-start-a-startup)
 
 
 

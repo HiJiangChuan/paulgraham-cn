@@ -186,8 +186,7 @@ Subject*Free!!! Subject*free!!! Subject*FREE! Subject*Free! Subject*free! Subjec
 
 相关链接：
 
-**英文原文：** [paulgraham.com/better.html](https://paulgraham.com/better.html)
-**中文版本：** [hijiangchuan.com/020-better-bayesian-filtering](https://hijiangchuan.com/020-better-bayesian-filtering)
+英文版：[paulgraham.com/better.html](https://paulgraham.com/better.html)｜中文版：[hijiangchuan.com/020-better-bayesian-filtering](https://hijiangchuan.com/020-better-bayesian-filtering)
 
 更新记录：
 - 2025-02-07 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

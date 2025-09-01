@@ -164,8 +164,7 @@
 
 感谢Trevor Blackwell、Dan Friedman、Sarah Harlin、Jessica Livingston、Jackie McDonough、Robert Morris、Peter Norvig、David Sloo和Aaron Swartz阅读本文草稿。
 
-**英文原文：** [paulgraham.com/love.html](https://paulgraham.com/love.html)
-**中文版本：** [hijiangchuan.com/056-how-to-do-what-you-love](https://hijiangchuan.com/056-how-to-do-what-you-love)
+英文版：[paulgraham.com/love.html](https://paulgraham.com/love.html)｜中文版：[hijiangchuan.com/056-how-to-do-what-you-love](https://hijiangchuan.com/056-how-to-do-what-you-love)
 
 更新记录：
 - 2025-01-16 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

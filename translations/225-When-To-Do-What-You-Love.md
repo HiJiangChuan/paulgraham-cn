@@ -55,8 +55,7 @@
 
 感谢Trevor Blackwell、Paul Buchheit、Jessica Livingston、Robert Morris、Harj Taggar和Garry Tan阅读草稿。
 
-**英文原文：** [paulgraham.com/when.html](https://paulgraham.com/when.html)
-**中文版本：** [hijiangchuan.com/225-when-to-do-what-you-love](https://hijiangchuan.com/225-when-to-do-what-you-love)
+英文版：[paulgraham.com/when.html](https://paulgraham.com/when.html)｜中文版：[hijiangchuan.com/225-when-to-do-what-you-love](https://hijiangchuan.com/225-when-to-do-what-you-love)
 
 
 
