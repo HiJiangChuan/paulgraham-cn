@@ -128,7 +128,8 @@ Artix 就像一只鬣狗，满足于靠腐肉生存，因为我们害怕狮子�
 
 感谢 Bill Birch、Trevor Blackwell、Jessica Livingston 和 Robert Morris 阅读本文的草稿。
 
-https://paulgraham.com/bronze.html
+英文版：https://paulgraham.com/bronze.html
+中文版：https://hijiangchuan.com/044-Why-Smart-People-Have-Bad-Ideas
 
 
 更新记录：

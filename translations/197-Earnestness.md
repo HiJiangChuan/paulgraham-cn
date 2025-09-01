@@ -65,7 +65,8 @@ Jessica 和我在谈论创业公司时，有一些词具有特别的意义。我
 
 感谢 Trevor Blackwell、Patrick Collison、Suhail Doshi、Jessica Livingston、Mattias Ljungman、Harj Taggar 和 Kyle Vogt 阅读本文初稿。
 
-https://paulgraham.com/earnest.html
+英文版：https://paulgraham.com/earnest.html
+中文版：https://hijiangchuan.com/197-Earnestness
 
 
 

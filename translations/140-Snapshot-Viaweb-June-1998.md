@@ -35,7 +35,8 @@
 
 1997年底我们发布了通用购物搜索引擎[Shopfind](http://ycombinator.com/viaweb/shoprel.html)。其可编程爬虫能抓取绝大多数线上商店的商品数据，在当时相当先进。
 
-https://paulgraham.com/vw.html
+英文版：https://paulgraham.com/vw.html
+中文版：https://hijiangchuan.com/140-Snapshot-Viaweb-June-1998
 
 
 

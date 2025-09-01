@@ -46,4 +46,5 @@
 更新记录：
 - 2025-04-14 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
 
-https://paulgraham.com/guidetoinvestors.html 
+英文版：https://paulgraham.com/guidetoinvestors.html
+中文版：https://hijiangchuan.com/076-The-Hackers-Guide-to-Investors 

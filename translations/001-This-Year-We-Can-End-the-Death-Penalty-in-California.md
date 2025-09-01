@@ -22,7 +22,8 @@
 
 是时候了。
 
-https://paulgraham.com/prop62.html
+英文版：https://paulgraham.com/prop62.html
+中文版：https://hijiangchuan.com/001-This-Year-We-Can-End-the-Death-Penalty-in-California
 
 
 更新记录：

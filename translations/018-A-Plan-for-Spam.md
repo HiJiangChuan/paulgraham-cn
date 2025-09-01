@@ -172,7 +172,8 @@ _ _ _
 
 更多信息：
 
-https://paulgraham.com/spam.html
+英文版：https://paulgraham.com/spam.html
+中文版：https://hijiangchuan.com/018-A-Plan-for-Spam
 
 
 更新记录：

@@ -44,7 +44,7 @@
 - 035 [布拉德利幽灵](https://hijiangchuan.com/paulgraham/035-Bradleys-Ghost/) (2004年11月)
 - 036 [魅力至上](https://hijiangchuan.com/paulgraham/036-Its-Charisma-Stupid/) (2004年11月)
 - 037 [美国制造](https://hijiangchuan.com/paulgraham/037-Made-in-USA/) (2004年11月)
-- 038 [你希望自己知道的事](https://hijiangchuan.com/paulgraham/038-What-Youll-Wish-Youd-Known/) (2005年01月)
+- 038 [那些你将来会希望早就知道的事](https://hijiangchuan.com/paulgraham/038-What-Youll-Wish-Youd-Known/) (2005年01月)
 - 039 [如何创办创业公司](https://hijiangchuan.com/paulgraham/039-How-to-Start-a-Startup/) (2005年03月)
 - 040 [VC 糟糕表现的统一理论](https://hijiangchuan.com/paulgraham/040-A-Unified-Theory-of-VC-Suckage/) (2005年03月)
 - 041 [大学教育](https://hijiangchuan.com/paulgraham/041-Undergraduation/) (2005年03月)

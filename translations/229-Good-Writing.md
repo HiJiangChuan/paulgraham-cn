@@ -55,7 +55,8 @@
 
 感谢杰西卡·利文斯顿和考特尼·皮普金审阅本文草稿。
 
-https://paulgraham.com/goodwriting.html
+英文版：https://paulgraham.com/goodwriting.html
+中文版：https://hijiangchuan.com/229-Good-Writing
 
 
 

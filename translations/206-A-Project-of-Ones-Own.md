@@ -69,7 +69,8 @@ Steve Jobs从Steve Wozniak身上学到了一些关于“滑冰者”的事情。
 
 感谢Trevor Blackwell、Paul Buchheit、Andy Hertzfeld、Jessica Livingston 和 Peter Norvig阅读初稿。
 
-https://paulgraham.com/own.html
+英文版：https://paulgraham.com/own.html
+中文版：https://hijiangchuan.com/206-A-Project-of-Ones-Own
 
 
 

@@ -188,11 +188,12 @@ ABQ
 
 当你就是水的时候，你怎么能看到波浪？永远保持质疑。这是唯一的防御。你不能说什么？为什么？
 
-[注释](http://www.paulgraham.com/saynotes.html)
+[注释](https://paulgraham.com/saynotes.html)
 
 感谢Sarah Harlin、Trevor Blackwell、Jessica Livingston、Robert Morris、Eric Raymond和Bob van der Zwaan阅读了这篇文章的草稿，感谢Lisa Randall、Jackie McDonough、Ryan Stanley和Joel Rainey关于异端的对话。不用说他们对文章中表达的观点，特别是未表达的观点不负任何责任。
 
-https://paulgraham.com/say.html
+英文版：https://paulgraham.com/say.html
+中文版：https://hijiangchuan.com/026-What-You-Cant-Say
 
 
 更新记录：

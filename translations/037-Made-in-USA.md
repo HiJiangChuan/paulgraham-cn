@@ -70,7 +70,8 @@
 
 感谢特雷弗·布莱克威尔、巴里·艾斯勒、莎拉·哈林、川合史郎、杰西卡·利文斯顿、杰基·麦克多诺、罗伯特·莫里斯和埃里克·雷蒙德阅读了本文的草稿。
 
-https://paulgraham.com/usa.html
+英文版：https://paulgraham.com/usa.html
+中文版：https://hijiangchuan.com/037-Made-in-USA
 
 
 更新记录：

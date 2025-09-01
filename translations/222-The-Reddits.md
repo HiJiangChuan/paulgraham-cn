@@ -37,7 +37,8 @@ Reddit网站（现在是应用程序）是如此根本有用的东西，以至�
 
 人们认为他们已经了解了Reddit：硅谷的一个玩家，但不是大玩家之一。但那些知道幕后发生了什么的人知道这个故事不仅仅如此。如果Reddit能够在管理最多是无害的情况下成长到现在的规模，那么如果Steve回来会怎样？我们现在知道这个问题的答案。或者至少是答案的下限。Steve还没有用完他的想法。
 
-https://paulgraham.com/reddits.html
+英文版：https://paulgraham.com/reddits.html
+中文版：https://hijiangchuan.com/222-The-Reddits
 
 
 

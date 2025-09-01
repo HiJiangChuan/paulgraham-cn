@@ -178,7 +178,8 @@
 
 Stephen G. Brush, "Why was Relativity Accepted?" Phys. Perspect. 1 (1999) 184-214.
 
-https://paulgraham.com/taste.html
+英文版：https://paulgraham.com/taste.html
+中文版：https://hijiangchuan.com/014-Taste-for-Makers
 
 
 更新记录：

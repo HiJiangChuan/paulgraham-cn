@@ -64,7 +64,8 @@
 
 [评论](http://reddit.com/info/8zp7/comments)这篇文章。
 
-https://paulgraham.com/charisma.html
+英文版：https://paulgraham.com/charisma.html
+中文版：https://hijiangchuan.com/036-Its-Charisma-Stupid
 
 
 更新记录：

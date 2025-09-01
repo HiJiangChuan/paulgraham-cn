@@ -7,7 +7,7 @@
 
 2010年8月
 
-两年前我曾[撰文](http://www.paulgraham.com/googles.html#next)论述过这个"创业融资领域巨大且未被开发的机遇"：风险投资机构现行商业模式要求他们必须进行大额投资，而越来越多初创企业所需资金量却远低于传统规模，二者间出现了日益严重的断层。如今初创企业更倾向于寻求20-50万美元融资，而非200-500万美元。[1]
+两年前我曾[撰文](https://paulgraham.com/googles.html#next)论述过这个"创业融资领域巨大且未被开发的机遇"：风险投资机构现行商业模式要求他们必须进行大额投资，而越来越多初创企业所需资金量却远低于传统规模，二者间出现了日益严重的断层。如今初创企业更倾向于寻求20-50万美元融资，而非200-500万美元。[1]
 
 如今这个机遇已被充分开发。投资者从两个方向涌入这片领域：风险投资机构进行天使轮规模投资的意愿比一年前强烈得多；与此同时，过去一年出现了一类爆发式增长的新型投资者——超级天使（super-angel），他们运作模式如同天使投资人，但像风投机构那样使用外部资金。
 
@@ -143,7 +143,8 @@ Mitch Kapor指出的另一风险是：若风投仅将天使投资视为获取A�
 
 感谢Sam Altman、John Bautista、Trevor Blackwell、Paul Buchheit、Jeff Clavier、Patrick Collison、Ron Conway、Matt Cohler、Chris Dixon、Mitch Kapor、Josh Kopelman、Pete Koomen、Carolynn Levy、Jessica Livingston、Ariel Poler、Geoff Ralston、Naval Ravikant、Dan Siroker、Harj Taggar和Fred Wilson审阅本文草稿。
 
-https://paulgraham.com/future.html
+英文版：https://paulgraham.com/future.html
+中文版：https://hijiangchuan.com/129-The-Future-of-Startup-Funding
 
 
 

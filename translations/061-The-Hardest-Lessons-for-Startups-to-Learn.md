@@ -191,7 +191,8 @@
 
 感谢Sam Altman、Trevor Blackwell、Beau Hartshorne、Jessica Livingston和Robert Morris阅读本文的草稿。
 
-https://paulgraham.com/startuplessons.html 
+英文版：https://paulgraham.com/startuplessons.html
+中文版：https://hijiangchuan.com/061-The-Hardest-Lessons-for-Startups-to-Learn 
 
 
 

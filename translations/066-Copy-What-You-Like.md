@@ -23,7 +23,8 @@
 
 [评论](http://reddit.com/info/9bm4/comments)这篇文章。
 
-https://paulgraham.com/copy.html
+英文版：https://paulgraham.com/copy.html
+中文版：https://hijiangchuan.com/066-Copy-What-You-Like
 
 
 
