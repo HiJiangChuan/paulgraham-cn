@@ -64,8 +64,7 @@
 
 经济不平等不仅仅是创业公司的结果。它是驱动创业公司的引擎，就像水流驱动水车一样。人们创办创业公司是希望变得比之前更富有。如果你的社会试图阻止任何人比其他人更富有，它也会阻止一个人在t2时刻比t1时刻更富有。
 
-英文版：https://paulgraham.com/inequality.html
-中文版：https://hijiangchuan.com/049-Inequality-and-Risk
+https://paulgraham.com/inequality.html
 
 
 更新记录：

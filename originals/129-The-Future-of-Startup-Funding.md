@@ -4,7 +4,7 @@ Want to start a startup? Get funded by [Y Combinator](http://ycombinator.com/app
 
 August 2010
 
-Two years ago I [wrote](https://paulgraham.com/googles.html#next) about what I called " a huge, unexploited opportunity in startup funding :" the growing disconnect between VCs, whose current business model requires them to invest large amounts, and a large class of startups that need less than they used to. Increasingly, startups want a couple hundred thousand dollars, not a couple million. [ ]
+Two years ago I [wrote](http://www.paulgraham.com/googles.html#next) about what I called " a huge, unexploited opportunity in startup funding :" the growing disconnect between VCs, whose current business model requires them to invest large amounts, and a large class of startups that need less than they used to. Increasingly, startups want a couple hundred thousand dollars, not a couple million. [ ]
 
 The opportunity is a lot less unexploited now. Investors have poured into this territory from both directions. VCs are much more likely to make angel-sized investments than they were a year ago. And meanwhile the past year has seen a dramatic increase in a new type of investor: the super-angel, who operates like an angel, but using other people's money, like a VC.
 

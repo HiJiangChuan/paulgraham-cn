@@ -1,4 +1,7 @@
 
+
+
+
 # 差距
 
 2004年5月
@@ -185,8 +188,6 @@
 
 也许录取过程的设计者应该从计算机安全的例子中吸取教训，不要只是假设他们的系统不能被破解，而是要衡量它被破解的程度。
 
-英文版：https://paulgraham.com/gap.html
-中文版：https://hijiangchuan.com/paulgraham/029-mind-the-gap
 
 更新记录：
 - 2025-02-09 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

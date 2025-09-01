@@ -35,8 +35,7 @@
 
 感谢剑桥联盟的邀请，也感谢Trevor Blackwell、Jessica Livingston 和 Robert Morris 阅读了本文的初稿。
 
-英文版：https://paulgraham.com/goodtaste.html
-中文版：https://hijiangchuan.com/210-Is-There-Such-a-Thing-as-Good-Taste
+https://paulgraham.com/goodtaste.html
 
 
 

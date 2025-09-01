@@ -33,8 +33,7 @@
 
 感谢Sam Altman、Paul Buchheit、Patrick Collison、Aaron Iba、Jessica Livingston、Emmett Shear和Harj Taggar审阅本文草稿。
 
-英文版：https://paulgraham.com/schlep.html
-中文版：https://hijiangchuan.com/141-schlep-blindness
+https://paulgraham.com/schlep.html
 
 
 

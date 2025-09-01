@@ -60,8 +60,7 @@
 
 感谢Trevor Blackwell、Sarah Harlin、Jessica Livingston和Robert Morris阅读本文草稿。
 
-英文版：https://paulgraham.com/vcsqueeze.html
-中文版：https://hijiangchuan.com/052-The-Venture-Capital-Squeeze
+https://paulgraham.com/vcsqueeze.html
 
 
 更新记录：

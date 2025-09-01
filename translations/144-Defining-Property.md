@@ -46,8 +46,7 @@
 
 感谢Sam Altman和Geoff Ralston阅读本文的草稿。
 
-英文版：https://paulgraham.com/property.html
-中文版：https://hijiangchuan.com/144-Defining-Property
+https://paulgraham.com/property.html
 
 
 更新记录：

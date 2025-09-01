@@ -148,8 +148,7 @@
 
 [6] 工作的本质是创造价值，而不是简单地加入一个机构。
 
-英文版：https://paulgraham.com/wealth.html
-中文版：https://hijiangchuan.com/028-How-to-Make-Wealth
+https://paulgraham.com/wealth.html
 
 
 

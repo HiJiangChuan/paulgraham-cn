@@ -39,8 +39,7 @@
 
 感谢Trevor Blackwell，Patrick Collison和Robert Morris阅读草稿。
 
-英文版：https://paulgraham.com/words.html
-中文版：https://hijiangchuan.com/211-Putting-Ideas-into-Words
+https://paulgraham.com/words.html
 
 
 

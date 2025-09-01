@@ -50,8 +50,6 @@ SEC将"合格投资者"定义为拥有超过100万美元流动资产或年收入
 
 作为开发产品的方式，咨询的一个优势是你知道你在制作至少一个客户想要的东西。但如果你有创办创业公司所需的条件，你应该有足够的远见而不需要这个拐杖。
 
-英文版：https://paulgraham.com/startupfunding.html
-中文版：https://hijiangchuan.com/053-How-to-Fund-a-Startup 
 
 ## 天使投资人
 
@@ -125,8 +123,7 @@ SEC将"合格投资者"定义为拥有超过100万美元流动资产或年收入
 
 Google一直在积极追求这条路，现在[Yahoo](http://ycombinator.com/buckman.html)也在这样做。两者现在都直接与风险投资公司竞争。这是一个明智的举动。为什么要等待更多轮融资来提高创业公司的价格？当创业公司达到风险投资公司有足够信息投资的地步时，收购方应该有足够的信息来收购它。事实上，有了他们的技术深度，收购方应该比风险投资公司更擅长挑选赢家。
 
-英文版：https://paulgraham.com/startupfunding.html
-中文版：https://hijiangchuan.com/053-How-to-Fund-a-Startup
+https://paulgraham.com/startupfunding.html
 
 
 更新记录：

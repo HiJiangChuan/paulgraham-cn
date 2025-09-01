@@ -11,8 +11,7 @@
 
 这个秘诀就是创建自己的公司。这并非逃避工作的捷径——创业比普通工作更辛苦，但能避免诸多职场烦恼，比如听命于上司。
 
-为自己奋斗比替他人打工更激动人心，且可能获得巨额财富。事实上，这是[真正致富](英文版：https://paulgraham.com/richnow.html)的标准路径。查看富豪榜单，几乎所有人都是通过创业实现。
-中文版：https://hijiangchuan.com/221-How-to-Start-Google
+为自己奋斗比替他人打工更激动人心，且可能获得巨额财富。事实上，这是[真正致富](https://paulgraham.com/richnow.html)的标准路径。查看富豪榜单，几乎所有人都是通过创业实现。
 
 创业涵盖从理发店到科技巨头的各种形态。本文将聚焦光谱的极端——教你如何创建谷歌级别的公司。
 
@@ -42,8 +41,7 @@
 
 至此完成第一要素：通过项目实践掌握技术。如同小提琴或足球，编程也需要持续练习。若22岁创业，从现在开始编码，7年练习足以精通任何技术。
 
-**创意涌现**：假设22岁已成技术专家，如何获取[创业点子](英文版：https://paulgraham.com/startupideas.html)？看似困难实则简单——技术精进后，世界各处缺失的"虚线轮廓"将清晰可见。既能发现技术本身的不足，也能洞察可用技术解决的现实问题，每个缺口都是潜在创业机会。
-中文版：https://hijiangchuan.com/221-How-to-Start-Google
+**创意涌现**：假设22岁已成技术专家，如何获取[创业点子](https://paulgraham.com/startupideas.html)？看似困难实则简单——技术精进后，世界各处缺失的"虚线轮廓"将清晰可见。既能发现技术本身的不足，也能洞察可用技术解决的现实问题，每个缺口都是潜在创业机会。
 
 我家附近商店常年挂着"门难关"告示。店员视之为神秘自然现象，但木匠只需刨平凸起部分即可解决。精通编程后，软件世界的"卡门"问题同样显而易见。
 
@@ -77,8 +75,7 @@
 
 感谢Jared Friedman、Carolynn Levy、Jessica Livingston、Harj Taggar和Garry Tan审阅本文。
 
-英文版：https://paulgraham.com/google.html
-中文版：https://hijiangchuan.com/221-How-to-Start-Google
+https://paulgraham.com/google.html
 
 
 

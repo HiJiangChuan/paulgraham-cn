@@ -59,8 +59,7 @@
 
 感谢 Sam Altman、David Greenspan、Aaron Iba、Jessica Livingston、Robert Morris、Peter Norvig、Lisa Randall、Emmett Shear、Sergei Tsarev 和 Stephen Wolfram 阅读本文草稿。
 
-英文版：https://paulgraham.com/head.html
-中文版：https://hijiangchuan.com/080-Holding-a-Program-in-Ones-Head
+https://paulgraham.com/head.html
 
 
 

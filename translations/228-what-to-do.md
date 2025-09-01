@@ -47,8 +47,7 @@
 
 感谢Trevor Blackwell、Jessica Livingston和Robert Morris审阅本文草稿。
 
-英文版：https://paulgraham.com/do.html
-中文版：https://hijiangchuan.com/228-what-to-do
+https://paulgraham.com/do.html
 
 
 

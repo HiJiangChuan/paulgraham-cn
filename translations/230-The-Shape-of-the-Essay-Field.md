@@ -38,8 +38,7 @@
 
 感谢杰西卡·利文斯顿和迈克尔·尼尔森审阅本文草稿。
 
-英文版：https://paulgraham.com/essayfield.html
-中文版：https://hijiangchuan.com/230-The-Shape-of-the-Essay-Field
+https://paulgraham.com/essayfield.html
 
 
 

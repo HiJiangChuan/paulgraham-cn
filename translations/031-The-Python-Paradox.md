@@ -20,8 +20,7 @@
 
 到目前为止是这样。当然，这两种语言都是[不断变化](https://hijiangchuan.com/paulgraham/022-The-Hundred-Year-Language)的目标。但它们与Ruby（以及Icon、Joy、J、Lisp和Smalltalk）有一个共同点：它们都是由真正关心编程的人创建和使用的。而这些人往往是那些做得很好的人。
 
-英文版：https://paulgraham.com/pypar.html
-中文版：https://hijiangchuan.com/031-The-Python-Paradox
+https://paulgraham.com/pypar.html
 
 
 更新记录：

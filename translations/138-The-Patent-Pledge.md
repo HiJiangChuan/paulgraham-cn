@@ -31,8 +31,7 @@
 
 [1] 由于承诺条款刻意保持模糊，执行时需要常识判断。更准确地说：这种模糊性正是为了促使人们运用常识进行解读。例如我刻意未说明"25人"是否包含外包人员——若某公司需要在这种细节上钻空子才能提起诉讼，其行为本质上仍属恶劣。
 
-英文版：https://paulgraham.com/patentpledge.html
-中文版：https://hijiangchuan.com/138-The-Patent-Pledge
+https://paulgraham.com/patentpledge.html
 
 
 

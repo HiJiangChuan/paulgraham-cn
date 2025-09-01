@@ -37,8 +37,7 @@ Airbnb 在 YC 期间的目标是实现我们所谓的[“拉面盈利”](http:/
 
 Brian 的回信只有七个字：“我们绝不会放慢脚步。”
 
-英文版：https://paulgraham.com/airbnbs.html
-中文版：https://hijiangchuan.com/195-The-Airbnbs
+https://paulgraham.com/airbnbs.html
 
 
 

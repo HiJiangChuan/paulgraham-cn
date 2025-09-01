@@ -630,8 +630,8 @@ lambda表达式中的lambda不是一个运算符。它只是一个符号。[3] �
 
 [3] 在早期的Lisp方言中，lambda是一个运算符。在Common Lisp中，它只是一个符号，用于识别lambda表达式。
 
-英文版：https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1743250771&
-中文版：https://hijiangchuan.com/paulgraham/004-Chapter-2-of-Ansi-Common-Lisp
+https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1743250771&
+
 
 更新记录：
 - 2024-12-09 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

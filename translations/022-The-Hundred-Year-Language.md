@@ -85,8 +85,7 @@
 
 感谢Trevor Blackwell、Robert Morris和Eric Raymond阅读了这篇文章的草稿。
 
-英文版：https://paulgraham.com/hundred.html
-中文版：https://hijiangchuan.com/022-The-Hundred-Year-Language
+https://paulgraham.com/hundred.html
 
 
 更新记录：

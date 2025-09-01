@@ -123,8 +123,8 @@ and Hudson, London, 1963, p. 85.
 
 这个类比当然只适用于在面板上，后来在画布上完成的画作。壁画继续用湿壁画技法完成。我也不想暗示绘画风格是由技术变革驱动的；相反似乎更接近真相。
 
-英文版：https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1743250771&
-中文版：https://hijiangchuan.com/paulgraham/003-Chapter-1-of-Ansi-Common-Lisp
+https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1743250771&
+
 
 更新记录：
 - 2025-01-12 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

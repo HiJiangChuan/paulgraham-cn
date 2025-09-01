@@ -50,8 +50,7 @@
 
 [这些数字已修订。原始数字夸大了FreeBSD的市场份额，因为它们包括了来自我们的点击。]
 
-英文版：https://paulgraham.com/mac.html
-中文版：https://hijiangchuan.com/043-Return-of-the-Mac
+https://paulgraham.com/mac.html
 
 
 更新记录：

@@ -95,11 +95,9 @@
 
 同理，描写新手常犯的过度设计错误——年轻工程师总在制造复杂方案。某些错误唯有亲历方能避免，相关主题永远有效。
 
-认知迟滞有时源于系统性欺骗。成人世界充斥着对儿童的[谎言](英文版：https://paulgraham.com/lies.html)，而成年后无人提供真相清单。这些谎言大多心照不宣，因此揭露它们将带来持续惊喜。[16]
-中文版：https://hijiangchuan.com/220-The-Best-Essay
+认知迟滞有时源于系统性欺骗。成人世界充斥着对儿童的[谎言](https://paulgraham.com/lies.html)，而成年后无人提供真相清单。这些谎言大多心照不宣，因此揭露它们将带来持续惊喜。[16]
 
-有时是系统在欺骗你。例如多数国家的教育体系训练学生[应试技巧](英文版：https://paulgraham.com/lesson.html)，但这与真实世界的成功法则背道而驰。帮助新人突破体制谎言，在体制存续期间永远有效。[17]
-中文版：https://hijiangchuan.com/220-The-Best-Essay
+有时是系统在欺骗你。例如多数国家的教育体系训练学生[应试技巧](https://paulgraham.com/lesson.html)，但这与真实世界的成功法则背道而驰。帮助新人突破体制谎言，在体制存续期间永远有效。[17]
 
 另一永恒性配方是书写人尽皆知但文化难以传承的细节。比如"养育子女的回报"尽人皆知，但未经历者不知具体形式，经历者也未必能言传。
 
@@ -149,8 +147,7 @@
 
 感谢Sam Altman、Trevor Blackwell、Jessica Livingston、Robert Morris、Courtenay Pipkin和Harj Taggar阅读本文草稿。
 
-英文版：https://paulgraham.com/best.html
-中文版：https://hijiangchuan.com/220-The-Best-Essay
+https://paulgraham.com/best.html
 
 
 

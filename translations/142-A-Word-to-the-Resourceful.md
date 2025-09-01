@@ -11,8 +11,7 @@
 
 这个现象引起了我的注意，因为早期我们发现最成功的创业公司也有一个关键特征。那些表现最出色的初创企业，其创始人往往具备"自主解决问题"的特质。这类公司堪称"发射后不管"型——你只需提供一个线索，他们就能搞定后续所有环节，无论这个线索涉及什么领域。比如在融资时，你做完初步引荐后就可以放手不管，完全不必操心这轮融资能否完成。这类创始人注定能带着资金回来，唯一不确定的只是具体金额和条款。
 
-有趣的是，光谱两端的极端案例竟能通过看似毫不相关的测试来识别。按理说，如果一端的创始人以具备X特质著称，另一端应该以缺乏X特质为特征。难道[变通能力](英文版：https://paulgraham.com/relres.html)与沟通障碍之间存在某种反比关系？
-中文版：https://hijiangchuan.com/142-A-Word-to-the-Resourceful
+有趣的是，光谱两端的极端案例竟能通过看似毫不相关的测试来识别。按理说，如果一端的创始人以具备X特质著称，另一端应该以缺乏X特质为特征。难道[变通能力](https://paulgraham.com/relres.html)与沟通障碍之间存在某种反比关系？
 
 事实证明确实如此，解开这个谜题的关键在于那句古老的谚语"智者一言已足"。由于这个短语不仅被过度使用，而且常被间接引用（作为建议的开场白），大多数听过的人并不真正理解其含义。它实际是说：对于智者，你只需提示只言片语，他们就能立即心领神会。无需详细解释，他们自会推演出所有隐含意义。
 
@@ -34,8 +33,7 @@
 
 感谢Sam Altman、Patrick Collison、Aaron Iba、Jessica Livingston、Robert Morris、Harj Taggar和Garry Tan审阅本文草稿。
 
-英文版：https://paulgraham.com/word.html
-中文版：https://hijiangchuan.com/142-A-Word-to-the-Resourceful
+https://paulgraham.com/word.html
 
 
 

@@ -31,8 +31,7 @@
 
 我的写作之所以最终呈现为简单风格，另一个原因是我的写作方式。我第一稿写得很快，然后花好几天时间修改，努力把一切都打磨到位。大部分修改是删减，这也让原本就简单的文字变得更简洁。
 
-英文版：https://paulgraham.com/simply.html
-中文版：https://hijiangchuan.com/200-Write-Simply
+https://paulgraham.com/simply.html
 
 
 

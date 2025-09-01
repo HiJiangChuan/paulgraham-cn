@@ -194,8 +194,7 @@
 
 感谢Sarah Harlin、Trevor Blackwell、Robert Morris、Eric Raymond和Jackie Weicker阅读了这篇文章的草稿，感谢Maria Daniels扫描照片。
 
-英文版：https://paulgraham.com/nerds.html
-中文版：https://hijiangchuan.com/021-Why-Nerds-are-Unpopular
+https://paulgraham.com/nerds.html
 
 
 更新记录：

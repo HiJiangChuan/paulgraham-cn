@@ -141,8 +141,7 @@
 
 感谢Trevor Blackwell、Sarah Harlin、Jessica Livingston和Robert Morris阅读本文的草稿。
 
-英文版：https://paulgraham.com/wisdom.html
-中文版：https://hijiangchuan.com/072-Is-It-Worth-Being-Wise
+https://paulgraham.com/wisdom.html
 
 
 

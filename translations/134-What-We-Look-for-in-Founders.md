@@ -11,43 +11,37 @@
 
 ### 1. 坚韧不拔
 
-这已成为创始人最重要的品质。创立YC之初，我们曾以为智力才是关键——这确实是硅谷的普遍迷思。当然，创始人绝不能愚钝。但只要智力超过某个基准线，决定成败的就是坚韧程度。创业路上障碍重重，你绝不能是那种轻易就会[士气崩溃](英文版：https://paulgraham.com/die.html)的人。
-中文版：https://hijiangchuan.com/134-What-We-Look-for-in-Founders
+这已成为创始人最重要的品质。创立YC之初，我们曾以为智力才是关键——这确实是硅谷的普遍迷思。当然，创始人绝不能愚钝。但只要智力超过某个基准线，决定成败的就是坚韧程度。创业路上障碍重重，你绝不能是那种轻易就会[士气崩溃](https://paulgraham.com/die.html)的人。
 
 [WePay](http://wepay.com)的Bill Clerico和Rich Aberman就是典范。他们从事金融创业，意味着要和无休止地与官僚化的大公司周旋。当你的创业项目必须依赖与大企业的合作才能存活时，对方常常会用冷处理来扼杀你。但如果是Bill Clerico开始给你打电话，你最好乖乖配合——因为他绝不会放弃。
 
 ### 2. 灵活应变
 
-但这里说的坚韧，绝非"永不放弃梦想"那种鸡汤式的固执。创业世界充满变数，你必须能随时调整梦想。对此最好的比喻就是[跑卫](英文版：https://paulgraham.com/relres.html)：虽然坚定朝着端区冲刺，但随时可能通过横向迂回甚至短暂后退来达成目标。
-中文版：https://hijiangchuan.com/134-What-We-Look-for-in-Founders
+但这里说的坚韧，绝非"永不放弃梦想"那种鸡汤式的固执。创业世界充满变数，你必须能随时调整梦想。对此最好的比喻就是[跑卫](https://paulgraham.com/relres.html)：虽然坚定朝着端区冲刺，但随时可能通过横向迂回甚至短暂后退来达成目标。
 
 [Greplin](http://greplin.com)的Daniel Gross堪称灵活应变的标杆。他最初带着糟糕的电商点子申请YC，我们表示换项目才投资。他思考片刻就爽快答应，之后又连续切换两次方向才确定Greplin。在演示日面对投资人时，这个项目才启动几天，却获得了热烈追捧。他总能在绝境中找到出路。
 
 ### 3. 超凡想象力
 
-智力当然至关重要，但最具价值的是那种天马行空的想象力。比起快速解决既定问题，能产生惊人创意的能力更为关键。在创业领域，所有好主意最初都[显得荒谬](英文版：https://paulgraham.com/googles.html)——如果显而易见，早被人实现了。你需要那种能产出"恰到好处疯狂度"创意的智慧。
-中文版：https://hijiangchuan.com/134-What-We-Look-for-in-Founders
+智力当然至关重要，但最具价值的是那种天马行空的想象力。比起快速解决既定问题，能产生惊人创意的能力更为关键。在创业领域，所有好主意最初都[显得荒谬](https://paulgraham.com/googles.html)——如果显而易见，早被人实现了。你需要那种能产出"恰到好处疯狂度"创意的智慧。
 
 [Airbnb](http://airbnb.com)就是典型案例。事实上我们投资时觉得这个点子疯狂至极，难以相信大众会愿意住在陌生人家。最终打动我们的是创始人魅力——当他们透露靠售卖奥巴马和麦凯恩主题麦片维持生计时，我们就知道押对宝了。这个疯狂点子最终被证明恰到好处。
 
 ### 4. 离经叛道
 
-最成功的创始人通常品性纯良，但眼中总闪烁着海盗般的狡黠。他们绝非循规蹈矩的老好人：在道德大节上毫不含糊，却对繁文缛节不屑一顾。因此我称之为"顽皮"而非"邪恶"。他们热衷于[打破规则](英文版：https://paulgraham.com/gba.html)，但仅限于无关紧要的条条框框。这种特质或许与想象力一脉相承。
-中文版：https://hijiangchuan.com/134-What-We-Look-for-in-Founders
+最成功的创始人通常品性纯良，但眼中总闪烁着海盗般的狡黠。他们绝非循规蹈矩的老好人：在道德大节上毫不含糊，却对繁文缛节不屑一顾。因此我称之为"顽皮"而非"邪恶"。他们热衷于[打破规则](https://paulgraham.com/gba.html)，但仅限于无关紧要的条条框框。这种特质或许与想象力一脉相承。
 
 [Loopt](http://loopt.com)的Sam Altman是我们最成功的校友之一。他建议在YC申请表中加入"你曾如何巧妙利用系统漏洞获益"的问题（指钻规则空子而非黑客攻击）。这已成为我们评估申请者的重要指标。
 
 ### 5. 深厚友谊
 
-数据显示，[单人创业](英文版：https://paulgraham.com/startupmistakes.html)的成功率极低。绝大多数成功案例都有2-3位创始人，且彼此关系必须足够牢固。他们需要真心欣赏对方，并能默契配合。创业就像洗衣机里的袜子：但凡存在裂痕，必定会被撕得粉碎。
-中文版：https://hijiangchuan.com/134-What-We-Look-for-in-Founders
+数据显示，[单人创业](https://paulgraham.com/startupmistakes.html)的成功率极低。绝大多数成功案例都有2-3位创始人，且彼此关系必须足够牢固。他们需要真心欣赏对方，并能默契配合。创业就像洗衣机里的袜子：但凡存在裂痕，必定会被撕得粉碎。
 
 [Justin.tv](http://justin.tv)的Emmett Shear和Justin Kan堪称典范。这对二年级就相识的伙伴几乎能心灵感应。虽然也会像所有创始人那样争执，但两人之间从未让人感到任何芥蒂。
 
 感谢Jessica Livingston和Chris Steiner审阅本文。
 
-英文版：https://paulgraham.com/founders.html
-中文版：https://hijiangchuan.com/134-What-We-Look-for-in-Founders
+https://paulgraham.com/founders.html
 
 
 
