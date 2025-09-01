@@ -119,7 +119,8 @@ ___________
 
 感谢 Trevor Blackwell、Paul Buchheit、Patrick Collison、Jessica Livingston、Robert Morris、Harj Taggar 和 Peter Thiel 阅读本文草稿并提出意见。
 
-https://paulgraham.com/think.html
+英文版：https://paulgraham.com/think.html
+中文版：https://hijiangchuan.com/194-How-to-Think-for-Yourself
 
 
 

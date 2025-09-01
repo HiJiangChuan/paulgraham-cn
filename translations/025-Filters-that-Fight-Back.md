@@ -43,8 +43,8 @@
 
 感谢Brian Burton、Bill Yerazunis、Dan Giffin、Eric Raymond和Richard Jowsey阅读了这篇文章的草稿。
 
-https://paulgraham.com/ffb.html
-
+英文版：https://paulgraham.com/ffb.html
+中文版：https://hijiangchuan.com/025-filters-that-fight-back
 
 更新记录：
 - 2024-12-27 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

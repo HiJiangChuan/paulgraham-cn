@@ -49,7 +49,8 @@
 
 感谢Trevor Blackwell、Patrick Collison、Jessica Livingston、Robert Morris、Michael Nielsen和Lisa Randall审阅本文草稿。
 
-https://paulgraham.com/smart.html
+英文版：https://paulgraham.com/smart.html
+中文版：https://hijiangchuan.com/209-Beyond-Smart
 
 
 

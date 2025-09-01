@@ -162,8 +162,8 @@ Mueller, Friedrich M. Letter to the Pall Mall Gazette. 1886/87. Reprinted in Bac
 
 [9] 当我第一次听说博客时，我以为它们会完全浪费时间。博客听起来像是网络新闻的长播放版本。但我错了；人们对留在他们网站上的东西更关心，而网络提供了新闻组缺少的过滤器。网上最好的写作不仅比网络新闻好，而且比大多数印刷媒体都好。感谢肯·安德森、特雷弗·布莱克威尔、莎拉·哈林、杰西卡·利文斯顿、杰基·麦克多诺和罗伯特·莫里斯阅读了这篇演讲的草稿。
 
-https://paulgraham.com/essay.html
-
+英文版：https://paulgraham.com/essay.html
+中文版：https://hijiangchuan.com/032-the-age-of-the-essay
 
 更新记录：
 - 2025-01-31 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

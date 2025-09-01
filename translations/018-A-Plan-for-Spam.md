@@ -172,8 +172,8 @@ _ _ _
 
 更多信息：
 
-https://paulgraham.com/spam.html
-
+英文版：https://paulgraham.com/spam.html
+中文版：https://hijiangchuan.com/018-a-plan-for-spam
 
 更新记录：
 - 2024-12-15 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

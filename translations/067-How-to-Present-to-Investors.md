@@ -135,7 +135,8 @@ Greg Mcadoo说，红杉资本寻找的一件事是"需求的代理"。人们现�
 
 这对你来说也是一个很好的练习，坐下来试着想出一个引人注目的短语来描述你的创业公司。如果你不能，你的计划可能不够集中。
 
-https://paulgraham.com/investors.html
+英文版：https://paulgraham.com/investors.html
+中文版：https://hijiangchuan.com/067-how-to-present-to-investors
 
 
 

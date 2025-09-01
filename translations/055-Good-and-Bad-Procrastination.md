@@ -68,8 +68,8 @@
 
 感谢Trevor Blackwell、Jessica Livingston和Robert Morris阅读本文草稿。
 
-https://paulgraham.com/procrastination.html
-
+英文版：https://paulgraham.com/procrastination.html
+中文版：https://hijiangchuan.com/055-good-and-bad-procrastination
 
 更新记录：
 - 2025-03-17 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

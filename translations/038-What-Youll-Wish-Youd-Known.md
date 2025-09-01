@@ -168,7 +168,8 @@
 
 感谢Ingrid Bassett、Trevor Blackwell、Rich Draves、Dan Giffin、Sarah Harlin、Jessica Livingston、Jackie McDonough、Robert Morris、Mark Nitzberg、Lisa Randall和Aaron Swartz阅读稿件，也感谢许多人与我一起讨论高中话题。
 
-https://paulgraham.com/hs.html
+英文版：https://paulgraham.com/hs.html
+中文版：https://hijiangchuan.com/038-what-youll-wish-youd-known
 
 更新记录：
 - 2025-09-01 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

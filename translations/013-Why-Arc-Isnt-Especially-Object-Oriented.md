@@ -24,8 +24,8 @@
 
 也许我只是愚蠢，或者只处理过一些有限的应用子集。基于自己的编程经验来设计语言是危险的。但似乎更危险的是加入你从未需要的东西，因为它被认为是一个好主意。
 
-https://paulgraham.com/noop.html
-
+英文版：https://paulgraham.com/noop.html
+中文版：https://hijiangchuan.com/013-why-arc-isnt-especially-object-oriented
 
 更新记录：
 - 2024-12-23 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

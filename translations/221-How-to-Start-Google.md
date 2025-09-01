@@ -75,7 +75,8 @@
 
 感谢Jared Friedman、Carolynn Levy、Jessica Livingston、Harj Taggar和Garry Tan审阅本文。
 
-https://paulgraham.com/google.html
+英文版：https://paulgraham.com/google.html
+中文版：https://hijiangchuan.com/221-how-to-start-google
 
 
 

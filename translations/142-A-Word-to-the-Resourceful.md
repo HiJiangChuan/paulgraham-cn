@@ -33,7 +33,8 @@
 
 感谢Sam Altman、Patrick Collison、Aaron Iba、Jessica Livingston、Robert Morris、Harj Taggar和Garry Tan审阅本文草稿。
 
-https://paulgraham.com/word.html
+英文版：https://paulgraham.com/word.html
+中文版：https://hijiangchuan.com/142-a-word-to-the-resourceful
 
 
 

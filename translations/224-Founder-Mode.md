@@ -43,7 +43,8 @@ Brian 演讲的主题是关于如何运营大公司的传统智慧是错误的�
 
 感谢Brian Chesky、Patrick Collison、Ron Conway、Jessica Livingston、Elon Musk、Ryan Petersen、Harj Taggar和Garry Tan阅读草稿。
 
-https://paulgraham.com/foundermode.html
+英文版：https://paulgraham.com/foundermode.html
+中文版：https://hijiangchuan.com/224-founder-mode
 
 
 

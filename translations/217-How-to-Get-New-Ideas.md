@@ -11,7 +11,8 @@
 
 知识以分形方式生长。远观其边缘平滑规整，但当你深入学习至足够接近时，就会注意到其中布满缺口。这些缺口会显得显而易见；竟无人尝试x或质疑y，这简直难以解释。在最佳情况下，探索这些缺口能催生出全新的分形萌芽。
 
-https://paulgraham.com/getideas.html
+英文版：https://paulgraham.com/getideas.html
+中文版：https://hijiangchuan.com/217-how-to-get-new-ideas
 
 
 

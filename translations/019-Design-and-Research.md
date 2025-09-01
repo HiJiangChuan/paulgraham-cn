@@ -86,8 +86,8 @@
 
 相关链接：
 
-https://paulgraham.com/desres.html
-
+英文版：https://paulgraham.com/desres.html
+中文版：https://hijiangchuan.com/019-design-and-research
 
 更新记录：
 - 2024-12-11 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
