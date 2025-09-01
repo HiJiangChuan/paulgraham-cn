@@ -77,4 +77,4 @@ https://paulgraham.com/users.html
 
 更新记录：
 - 2025-05-16 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
-- 2025-06-19 重新梳理，修正用词；
+- 2025-06-19 重新梳理，修正专业词汇的使用；
