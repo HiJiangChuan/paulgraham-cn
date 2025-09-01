@@ -90,6 +90,7 @@
 - 081 [如何避免死亡](https://hijiangchuan.com/paulgraham/081-How-Not-to-Die/) (2007年08月)
 - 082 [来自前线的消息](https://hijiangchuan.com/paulgraham/082-news-from-the-front/) (2007年09月)
 - 126 [如何挥霍时间与金钱](https://hijiangchuan.com/paulgraham/126-How-to-Lose-Time-and-Money/) (日期待补充)
+- 128 [成瘾性的加速](https://hijiangchuan.com/paulgraham/128-The-Acceleration-of-Addictiveness/) (2010年07月)
 - 129 [创业融资的未来格局](https://hijiangchuan.com/paulgraham/129-The-Future-of-Startup-Funding/) (2010年08月)
 - 130 [雅虎的衰落](https://hijiangchuan.com/paulgraham/130-What-Happened-to-Yahoo/) (2010年08月)
 - 131 [高精度融资：初创企业如何破解天使轮僵局](https://hijiangchuan.com/paulgraham/131-High-Resolution-Fundraising/) (2010年09月)
