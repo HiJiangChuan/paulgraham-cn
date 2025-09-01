@@ -65,8 +65,8 @@
 
 感谢Trevor Blackwell、Sarah Harlin、Jessica Livingston、Jackie McDonough、Peter Norvig和Robert Morris对本文草稿的审阅。
 
-英文版：https://paulgraham.com/colleges.html
-中文版：https://hijiangchuan.com/082-news-from-the-front
+**英文原文：** [paulgraham.com/colleges.html](https://paulgraham.com/colleges.html)
+**中文版本：** [hijiangchuan.com/082-news-from-the-front](https://hijiangchuan.com/082-news-from-the-front)
 
 
 

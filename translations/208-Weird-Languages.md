@@ -19,8 +19,8 @@
 
 感谢 Trevor Blackwell、Patrick Collison、Daniel Gackle、Amjad Masad 及 Robert Morris 审读本文草稿。
 
-英文版：https://paulgraham.com/weird.html
-中文版：https://hijiangchuan.com/208-Weird-Languages
+**英文原文：** [paulgraham.com/weird.html](https://paulgraham.com/weird.html)
+**中文版本：** [hijiangchuan.com/208-Weird-Languages](https://hijiangchuan.com/208-Weird-Languages)
 
 
 

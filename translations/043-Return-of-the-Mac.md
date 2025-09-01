@@ -50,8 +50,8 @@
 
 [这些数字已修订。原始数字夸大了FreeBSD的市场份额，因为它们包括了来自我们的点击。]
 
-英文版：https://paulgraham.com/mac.html
-中文版：https://hijiangchuan.com/043-return-of-the-mac
+**英文原文：** [paulgraham.com/mac.html](https://paulgraham.com/mac.html)
+**中文版本：** [hijiangchuan.com/043-return-of-the-mac](https://hijiangchuan.com/043-return-of-the-mac)
 
 更新记录：
 - 2025-01-05 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

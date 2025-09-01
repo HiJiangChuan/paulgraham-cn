@@ -25,8 +25,8 @@
 
 [日文翻译](http://www.aoky.net/articles/paul_graham/foundersatwork.htm)
 
-英文版：https://paulgraham.com/foundersatwork.html
-中文版：https://hijiangchuan.com/071-learning-from-founders
+**英文原文：** [paulgraham.com/foundersatwork.html](https://paulgraham.com/foundersatwork.html)
+**中文版本：** [hijiangchuan.com/071-learning-from-founders](https://hijiangchuan.com/071-learning-from-founders)
 
 
 

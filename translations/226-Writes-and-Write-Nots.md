@@ -31,8 +31,8 @@
 
 感谢Jessica Livingston、Ben Miller和Robert Morris阅读草稿。
 
-英文版：https://paulgraham.com/writes.html
-中文版：https://hijiangchuan.com/226-writes-and-write-nots
+**英文原文：** [paulgraham.com/writes.html](https://paulgraham.com/writes.html)
+**中文版本：** [hijiangchuan.com/226-writes-and-write-nots](https://hijiangchuan.com/226-writes-and-write-nots)
 
 
 

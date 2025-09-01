@@ -74,8 +74,8 @@ YC的重要职能就是加速这个过程。我们像是硅谷中的硅谷，通
 
 感谢Sam Altman、Paul Buchheit、Jessica Livingston和Harj Taggar审阅本文草稿。
 
-英文版：https://paulgraham.com/hubs.html
-中文版：https://hijiangchuan.com/139-why-startup-hubs-work
+**英文原文：** [paulgraham.com/hubs.html](https://paulgraham.com/hubs.html)
+**中文版本：** [hijiangchuan.com/139-why-startup-hubs-work](https://hijiangchuan.com/139-why-startup-hubs-work)
 
 
 

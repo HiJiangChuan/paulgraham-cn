@@ -57,8 +57,8 @@
 
 这种对话重复了多少次。然后当我们到了雅虎，发现他们也用 FreeBSD，也把数据存储在文件中。
 
-英文版：https://paulgraham.com/venturecapital.html
-中文版：https://hijiangchuan.com/040-a-unified-theory-of-vc-suckage
+**英文原文：** [paulgraham.com/venturecapital.html](https://paulgraham.com/venturecapital.html)
+**中文版本：** [hijiangchuan.com/040-a-unified-theory-of-vc-suckage](https://hijiangchuan.com/040-a-unified-theory-of-vc-suckage)
 
 更新记录：
 - 2025-01-07 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

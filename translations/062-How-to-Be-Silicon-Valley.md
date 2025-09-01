@@ -153,8 +153,8 @@
 
 （这次演讲的第二部分成为了《为什么创业公司在美国聚集》。）
 
-英文版：https://paulgraham.com/siliconvalley.html
-中文版：https://hijiangchuan.com/062-how-to-be-silicon-valley
+**英文原文：** [paulgraham.com/siliconvalley.html](https://paulgraham.com/siliconvalley.html)
+**中文版本：** [hijiangchuan.com/062-how-to-be-silicon-valley](https://hijiangchuan.com/062-how-to-be-silicon-valley)
 
 
 

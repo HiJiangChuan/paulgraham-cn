@@ -191,8 +191,8 @@
 
 感谢Sam Altman、Trevor Blackwell、Beau Hartshorne、Jessica Livingston和Robert Morris阅读本文的草稿。
 
-英文版：https://paulgraham.com/startuplessons.html
-中文版：https://hijiangchuan.com/061-The-Hardest-Lessons-for-Startups-to-Learn
+**英文原文：** [paulgraham.com/startuplessons.html](https://paulgraham.com/startuplessons.html)
+**中文版本：** [hijiangchuan.com/061-The-Hardest-Lessons-for-Startups-to-Learn](https://hijiangchuan.com/061-The-Hardest-Lessons-for-Startups-to-Learn)
 
 更新记录：
 - 2024-03-21 HiJiangChuan 初稿翻译

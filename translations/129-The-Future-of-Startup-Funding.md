@@ -143,8 +143,8 @@ Mitch Kapor指出的另一风险是：若风投仅将天使投资视为获取A�
 
 感谢Sam Altman、John Bautista、Trevor Blackwell、Paul Buchheit、Jeff Clavier、Patrick Collison、Ron Conway、Matt Cohler、Chris Dixon、Mitch Kapor、Josh Kopelman、Pete Koomen、Carolynn Levy、Jessica Livingston、Ariel Poler、Geoff Ralston、Naval Ravikant、Dan Siroker、Harj Taggar和Fred Wilson审阅本文草稿。
 
-英文版：https://paulgraham.com/future.html
-中文版：https://hijiangchuan.com/129-the-future-of-startup-funding
+**英文原文：** [paulgraham.com/future.html](https://paulgraham.com/future.html)
+**中文版本：** [hijiangchuan.com/129-the-future-of-startup-funding](https://hijiangchuan.com/129-the-future-of-startup-funding)
 
 
 

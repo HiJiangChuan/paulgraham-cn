@@ -20,8 +20,8 @@
 
 无论好坏，企业阶梯的概念可能已经一去不复返了。新模式似乎更加流动，更有效率。但从财务角度来看，这种变化并不像人们想象的那么大。我们的父辈并没有那么愚蠢。
 
-英文版：https://paulgraham.com/ladder.html
-中文版：https://hijiangchuan.com/048-after-the-ladder
+**英文原文：** [paulgraham.com/ladder.html](https://paulgraham.com/ladder.html)
+**中文版本：** [hijiangchuan.com/048-after-the-ladder](https://hijiangchuan.com/048-after-the-ladder)
 
 更新记录：
 - 2025-02-18 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

@@ -135,8 +135,8 @@ Lisp代码是由Lisp数据对象组成的。这不是在微不足道的意义上
 
 [6] 因此，编程语言的比较要么采取宗教战争的形式，要么采取如此坚决中立的本科教科书形式，以至于它们实际上是人类学著作。重视和平或想要终身教职的人避免这个话题。但这个问题只有一半是宗教性的；这里有一些值得研究的东西，特别是如果你想设计新的语言。
 
-英文版：https://paulgraham.com/avg.html
-中文版：https://hijiangchuan.com/006-beating-the-averages
+**英文原文：** [paulgraham.com/avg.html](https://paulgraham.com/avg.html)
+**中文版本：** [hijiangchuan.com/006-beating-the-averages](https://hijiangchuan.com/006-beating-the-averages)
 
 更新记录：
 - 2025-02-08 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

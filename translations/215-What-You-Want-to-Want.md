@@ -25,8 +25,8 @@
 
 感谢Trevor Blackwell、Jessica Livingston、Robert Morris和Michael Nielsen审阅本文草稿。
 
-英文版：https://paulgraham.com/want.html
-中文版：https://hijiangchuan.com/215-what-you-want-to-want
+**英文原文：** [paulgraham.com/want.html](https://paulgraham.com/want.html)
+**中文版本：** [hijiangchuan.com/215-what-you-want-to-want](https://hijiangchuan.com/215-what-you-want-to-want)
 
 
 

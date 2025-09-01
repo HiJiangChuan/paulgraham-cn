@@ -50,8 +50,8 @@ Ajax的另一个关键组成部分是Javascript，这是一种在浏览器中运
 
 [2] 部分原因是史蒂夫·乔布斯被约翰·斯卡利以一种在科技公司中罕见的方式推了出去。如果苹果的董事会没有犯下那个错误，他们就不必反弹。
 
-英文版：https://paulgraham.com/microsoft.html
-中文版：https://hijiangchuan.com/074-microsoft-is-dead
+**英文原文：** [paulgraham.com/microsoft.html](https://paulgraham.com/microsoft.html)
+**中文版本：** [hijiangchuan.com/074-microsoft-is-dead](https://hijiangchuan.com/074-microsoft-is-dead)
 
 更新记录：
 - 2025-04-14 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证； 

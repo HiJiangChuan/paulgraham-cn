@@ -207,8 +207,8 @@
 
 感谢 Sam Altman、Trevor Blackwell、Paul Buchheit、Sarah Harlin、Jessica Livingston、Jackie McDonough、Robert Morris、Olin Shivers 和 Chris Small 阅读本文的草稿，感谢 Chris Small 和 Chad Fowler 邀请我演讲。
 
-英文版：https://paulgraham.com/marginal.html
-中文版：https://hijiangchuan.com/064-the-power-of-the-marginal
+**英文原文：** [paulgraham.com/marginal.html](https://paulgraham.com/marginal.html)
+**中文版本：** [hijiangchuan.com/064-the-power-of-the-marginal](https://hijiangchuan.com/064-the-power-of-the-marginal)
 
 
 

@@ -111,8 +111,8 @@ YC系初创企业目前采取的应对策略是：限制单家风投在天使轮
 
 感谢Sam Altman、John Bautista、Patrick Collison、James Lindenbaum、Reid Hoffman、Jessica Livingston和Harj Taggar对本文的审阅。
 
-英文版：https://paulgraham.com/superangels.html
-中文版：https://hijiangchuan.com/133-the-new-funding-landscape
+**英文原文：** [paulgraham.com/superangels.html](https://paulgraham.com/superangels.html)
+**中文版本：** [hijiangchuan.com/133-the-new-funding-landscape](https://hijiangchuan.com/133-the-new-funding-landscape)
 
 
 

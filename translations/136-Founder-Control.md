@@ -33,8 +33,8 @@
 
 感谢Sam Altman、John Bautista、Trevor Blackwell、Paul Buchheit、Brian Chesky、Bill Clerico、Patrick Collison、Adam Goldstein、James Lindenbaum、Jessica Livingston和Fred Wilson审阅本文草稿。
 
-英文版：https://paulgraham.com/control.html
-中文版：https://hijiangchuan.com/136-founder-control
+**英文原文：** [paulgraham.com/control.html](https://paulgraham.com/control.html)
+**中文版本：** [hijiangchuan.com/136-founder-control](https://hijiangchuan.com/136-founder-control)
 
 
 

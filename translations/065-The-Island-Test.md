@@ -27,8 +27,8 @@
 
 所以也许我会在未来的某次旅行中尝试不带书。不过，他们得从我冰冷的死耳朵里撬出耳塞。
 
-英文版：https://paulgraham.com/island.html
-中文版：https://hijiangchuan.com/065-the-island-test
+**英文原文：** [paulgraham.com/island.html](https://paulgraham.com/island.html)
+**中文版本：** [hijiangchuan.com/065-the-island-test](https://hijiangchuan.com/065-the-island-test)
 
 
 

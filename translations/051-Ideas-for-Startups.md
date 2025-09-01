@@ -164,8 +164,8 @@
 
 [3] Bill Yerazunis已经解决了这个问题，但他通过另一条路径到达。他制作了一个如此好的通用文件分类器，以至于它也适用于垃圾邮件。
 
-英文版：https://paulgraham.com/ideas.html
-中文版：https://hijiangchuan.com/051-ideas-for-startups
+**英文原文：** [paulgraham.com/ideas.html](https://paulgraham.com/ideas.html)
+**中文版本：** [hijiangchuan.com/051-ideas-for-startups](https://hijiangchuan.com/051-ideas-for-startups)
 
 更新记录：
 - 2025-01-06 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

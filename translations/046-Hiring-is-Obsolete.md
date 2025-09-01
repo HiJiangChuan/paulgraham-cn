@@ -136,8 +136,8 @@
 
 所以去吧。创办一家创业公司。这是你22岁时应该做的事情。如果你成功了，你会很高兴你做了。如果你失败了，你也会很高兴你做了。 
 
-英文版：https://paulgraham.com/hiring.html
-中文版：https://hijiangchuan.com/046-hiring-is-obsolete
+**英文原文：** [paulgraham.com/hiring.html](https://paulgraham.com/hiring.html)
+**中文版本：** [hijiangchuan.com/046-hiring-is-obsolete](https://hijiangchuan.com/046-hiring-is-obsolete)
 
 更新记录：
 - 2024-12-19 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

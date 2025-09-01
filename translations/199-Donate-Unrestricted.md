@@ -25,8 +25,8 @@
 
 感谢 Chase Adam、Ingrid Bassett、Trevor Blackwell 和 Edith Elliot 阅读本文初稿。
 
-英文版：https://paulgraham.com/donate.html
-中文版：https://hijiangchuan.com/199-Donate-Unrestricted
+**英文原文：** [paulgraham.com/donate.html](https://paulgraham.com/donate.html)
+**中文版本：** [hijiangchuan.com/199-Donate-Unrestricted](https://hijiangchuan.com/199-Donate-Unrestricted)
 
 
 

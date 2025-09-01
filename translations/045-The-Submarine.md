@@ -108,8 +108,8 @@
 
 这就是为什么我把这篇文章命名为"公关潜艇"。在传统媒体时代,公关公司就像一艘潜伏在水下的潜艇,悄悄地影响着新闻的内容和形式。但在网络时代,这艘潜艇正在浮出水面,它的运作方式变得越来越透明。 
 
-英文版：https://paulgraham.com/submarine.html
-中文版：https://hijiangchuan.com/045-the-submarine
+**英文原文：** [paulgraham.com/submarine.html](https://paulgraham.com/submarine.html)
+**中文版本：** [hijiangchuan.com/045-the-submarine](https://hijiangchuan.com/045-the-submarine)
 
 更新记录：
 - 2025-01-15 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

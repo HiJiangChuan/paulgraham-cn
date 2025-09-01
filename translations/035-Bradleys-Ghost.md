@@ -29,8 +29,8 @@
 
 想象这个场景。一对夫妻去投票。妻子认为布什在伊拉克搞砸了，家庭的经济状况比几年前更糟，计划投票给克里。丈夫认为美国终于开始强硬起来很好，在乔治·布什身上看到了一种他喜欢认同的牛仔形象。这两个人中，谁更可能想向民调人员解释他们为什么那样投票？
 
-英文版：https://paulgraham.com/polls.html
-中文版：https://hijiangchuan.com/035-bradleys-ghost
+**英文原文：** [paulgraham.com/polls.html](https://paulgraham.com/polls.html)
+**中文版本：** [hijiangchuan.com/035-bradleys-ghost](https://hijiangchuan.com/035-bradleys-ghost)
 
 更新记录：
 - 2024-12-09 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

@@ -23,8 +23,8 @@
 
 感谢Trevor Blackwell、Greg Brockman、Patrick Collison、Robert Morris和Michael Nielsen阅读本文草稿。
 
-英文版：https://paulgraham.com/alien.html
-中文版：https://hijiangchuan.com/214-alien-truth
+**英文原文：** [paulgraham.com/alien.html](https://paulgraham.com/alien.html)
+**中文版本：** [hijiangchuan.com/214-alien-truth](https://hijiangchuan.com/214-alien-truth)
 
 
 

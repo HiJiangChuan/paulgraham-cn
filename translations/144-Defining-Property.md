@@ -46,8 +46,8 @@
 
 感谢Sam Altman和Geoff Ralston阅读本文的草稿。
 
-英文版：https://paulgraham.com/property.html
-中文版：https://hijiangchuan.com/144-defining-property
+**英文原文：** [paulgraham.com/property.html](https://paulgraham.com/property.html)
+**中文版本：** [hijiangchuan.com/144-defining-property](https://hijiangchuan.com/144-defining-property)
 
 更新记录：
 - 2025-01-29 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
