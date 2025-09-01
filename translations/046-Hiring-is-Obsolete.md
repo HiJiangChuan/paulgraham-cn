@@ -136,8 +136,8 @@
 
 所以去吧。创办一家创业公司。这是你22岁时应该做的事情。如果你成功了，你会很高兴你做了。如果你失败了，你也会很高兴你做了。 
 
-- 英文版：http://paulgraham.com/hiring.html
-- 中文版：https://hijiangchuan.com/046-Hiring-is-Obsolete
+英文版：https://paulgraham.com/hiring.html
+中文版：https://hijiangchuan.com/046-Hiring-is-Obsolete
 
 
 更新记录：

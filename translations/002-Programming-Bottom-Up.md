@@ -34,8 +34,8 @@
 
 [1] "但是如果不理解你所有的新工具，没有人能读懂这个程序。"要了解为什么这种说法通常是错误的，请参见4.8节。
 
-- 英文版：http://paulgraham.com/progbot.html
-- 中文版：https://hijiangchuan.com/002-Programming-Bottom-Up
+英文版：https://paulgraham.com/progbot.html
+中文版：https://hijiangchuan.com/002-Programming-Bottom-Up
 
 
 

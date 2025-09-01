@@ -28,8 +28,8 @@
 
 所以，与其等待"版本1.0"，不如从"版本0.1"开始。发布一些基本的东西，然后不断改进。这就是创业公司应该做的事情。这就是成功的方法。
 
-- 英文版：http://paulgraham.com/version1.html
-- 中文版：https://hijiangchuan.com/034-A-Version-1.0
+英文版：https://paulgraham.com/version1.html
+中文版：https://hijiangchuan.com/034-A-Version-1.0
 
 
 更新记录：

@@ -30,8 +30,8 @@ Cameron Willingham实际上在2004年被注射死刑。曾有“专家”证实�
 
 感谢Trevor Blackwell、Jessica Livingston和Don Knight审阅草稿。
 
-- 英文版：http://paulgraham.com/real.html
-- 中文版：https://hijiangchuan.com/202-The-Real-Reason-to-End-the-Death-Penalty
+英文版：https://paulgraham.com/real.html
+中文版：https://hijiangchuan.com/202-The-Real-Reason-to-End-the-Death-Penalty
 
 
 

@@ -39,13 +39,13 @@
 
 我相信这对YC投资的企业同样适用。即便我们刻意安排资源，硅谷高频率的有利偶遇仍能提供我们力所不及的额外助力。
 
-机缘巧合的作用类似于放松对创意的激发。多数人都有过这种经历：苦思难题无果，放弃就寝，次日沐浴时却灵光乍现。答案浮现的关键在于让思维适度[游离](- 英文版：http://paulgraham.com/top.html)——从而脱离昨夜错误的思考路径，转向相邻的正确方向。
-- 中文版：https://hijiangchuan.com/139-Why-Startup-Hubs-Work
+机缘巧合的作用类似于放松对创意的激发。多数人都有过这种经历：苦思难题无果，放弃就寝，次日沐浴时却灵光乍现。答案浮现的关键在于让思维适度[游离](英文版：https://paulgraham.com/top.html)——从而脱离昨夜错误的思考路径，转向相邻的正确方向。
+中文版：https://hijiangchuan.com/139-Why-Startup-Hubs-Work
 
 偶遇让社交关系产生类似沐浴时的思维漂移。两者关键都在于恰到好处的偏离度。拉里·佩奇与谢尔盖·布林（谷歌的两位创始人）的相遇就是典范。他们的社交圈产生轻微漂移——两个高度契合的人就此相遇。
 
-对佩奇而言，解毒剂的核心成分是布林，反之亦然。解毒剂就是[人](- 英文版：http://paulgraham.com/siliconvalley.html)。硅谷的魔力不在于物理基础设施或气候条件。这些因素助推了初始发展，但如今维持这个自运转系统的核心动力是人。
-- 中文版：https://hijiangchuan.com/139-Why-Startup-Hubs-Work
+对佩奇而言，解毒剂的核心成分是布林，反之亦然。解毒剂就是[人](英文版：https://paulgraham.com/siliconvalley.html)。硅谷的魔力不在于物理基础设施或气候条件。这些因素助推了初始发展，但如今维持这个自运转系统的核心动力是人。
+中文版：https://hijiangchuan.com/139-Why-Startup-Hubs-Work
 
 许多观察者注意到创业中心最显著特征之一，是人们不计回报互相帮助的程度。我不确定具体原因，可能因为创业不像多数商业活动那样零和竞争——初创企业很少被竞争对手消灭；也可能因为太多创业者具有鼓励协作的科研背景。
 
@@ -76,8 +76,8 @@ YC的重要职能就是加速这个过程。我们像是硅谷中的硅谷，通
 
 感谢Sam Altman、Paul Buchheit、Jessica Livingston和Harj Taggar审阅本文草稿。
 
-- 英文版：http://paulgraham.com/hubs.html
-- 中文版：https://hijiangchuan.com/139-Why-Startup-Hubs-Work
+英文版：https://paulgraham.com/hubs.html
+中文版：https://hijiangchuan.com/139-Why-Startup-Hubs-Work
 
 
 

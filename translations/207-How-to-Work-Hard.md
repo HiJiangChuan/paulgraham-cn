@@ -111,8 +111,8 @@
 
 感谢 Trevor Blackwell、John Carmack、John Collison、Patrick Collison、Robert Morris、Geoff Ralston 及 Harj Taggar 阅读本文草稿。
 
-- 英文版：http://paulgraham.com/hwh.html
-- 中文版：https://hijiangchuan.com/207-How-to-Work-Hard  
+英文版：https://paulgraham.com/hwh.html
+中文版：https://hijiangchuan.com/207-How-to-Work-Hard  
 
 
 

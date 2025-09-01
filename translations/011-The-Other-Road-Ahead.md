@@ -84,8 +84,8 @@ Graham认为，服务器端软件是软件开发的"另一条道路"，它提供
 他建议创业者们认真考虑这条道路，因为它不仅代表了技术的进步，更代表了商业模式的革新。在这个快速变化的时代，选择正确的技术路线对于创业成功至关重要。
 
 
-- 英文版：http://paulgraham.com/road.html
-- 中文版：https://hijiangchuan.com/paulgraham/011-the-other-road-ahead
+英文版：https://paulgraham.com/road.html
+中文版：https://hijiangchuan.com/paulgraham/011-the-other-road-ahead
 
 更新记录：
 - 2025-02-14 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

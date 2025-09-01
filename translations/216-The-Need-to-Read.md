@@ -25,8 +25,8 @@
 [1] 有声书能提供优秀写作范例，但被动听书对写作能力的提升效果远不及主动阅读
 [2] "擅长阅读"并非指识字能力，重点在于从文字中提炼深层含义的能力，而非仅从页面提取词汇
 
-- 英文版：http://paulgraham.com/read.html
-- 中文版：https://hijiangchuan.com/216-The-Need-to-Read
+英文版：https://paulgraham.com/read.html
+中文版：https://hijiangchuan.com/216-The-Need-to-Read
 
 
 

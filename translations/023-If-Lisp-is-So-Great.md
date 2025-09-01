@@ -22,8 +22,8 @@
 
 事实上，如果所有编程语言或多或少都是等价的，那么除了最流行的语言外，使用其他语言就没有什么理由了。但它们[并不](https://hijiangchuan.com/paulgraham/017-Revenge-of-the-Nerds)等价，远非如此。这就是为什么不太流行的语言，就像简·奥斯汀的小说一样，能够继续存在。当其他人都在读最新的约翰·格里沙姆小说时，总会有人选择读简·奥斯汀。
 
-- 英文版：http://paulgraham.com/iflisp.html
-- 中文版：https://hijiangchuan.com/023-If-Lisp-is-So-Great
+英文版：https://paulgraham.com/iflisp.html
+中文版：https://hijiangchuan.com/023-If-Lisp-is-So-Great
 
 
 更新记录：

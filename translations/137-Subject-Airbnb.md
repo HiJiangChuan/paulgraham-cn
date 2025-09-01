@@ -187,8 +187,8 @@ Airbnb让我联想到Etsy（美国最大的手工艺品和复古商品电商平�
 我并非看衰这个项目，只是仍在调研阶段  
 弗雷德  
 
-- 英文版：http://paulgraham.com/airbnb.html
-- 中文版：https://hijiangchuan.com/137-Subject-Airbnb  
+英文版：https://paulgraham.com/airbnb.html
+中文版：https://hijiangchuan.com/137-Subject-Airbnb  
 
 
 

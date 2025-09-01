@@ -31,8 +31,8 @@
 
 感谢伊玛德·阿洪、萨姆·奥尔特曼、约翰·鲍蒂斯塔、皮特·库门、杰西卡·利文斯顿、丹·西罗克、哈吉·塔加尔和弗雷德·威尔逊审阅本文草稿。
 
-- 英文版：http://paulgraham.com/hiresfund.html
-- 中文版：https://hijiangchuan.com/131-High-Resolution-Fundraising
+英文版：https://paulgraham.com/hiresfund.html
+中文版：https://hijiangchuan.com/131-High-Resolution-Fundraising
 
 
 

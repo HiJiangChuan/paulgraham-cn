@@ -148,8 +148,8 @@ Trevor Blackwell提醒你要上为数学专业设计的数学课。"'工程数�
 
 感谢Trevor Blackwell、Alex Lewin、Jessica Livingston、Robert Morris、Eric Raymond和几位[匿名的CS教授](https://hijiangchuan.com/paulgraham/EXTRA031-More-Advice-for-Undergrads)阅读本文的草稿，感谢那些提出问题的学生们，是他们的提问促成了这篇文章。
 
-- 英文版：http://paulgraham.com/college.html
-- 中文版：https://hijiangchuan.com/041-Undergraduation
+英文版：https://paulgraham.com/college.html
+中文版：https://hijiangchuan.com/041-Undergraduation
 
 
 更新记录：

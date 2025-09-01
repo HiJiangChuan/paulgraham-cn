@@ -177,7 +177,7 @@
 
 
 英文版：https://www.paulgraham.com/gh.html
-- 中文版：https://hijiangchuan.com/paulgraham/030-great-hackers
+中文版：https://hijiangchuan.com/paulgraham/030-great-hackers
 
 更新记录：
 - 2025-03-27 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

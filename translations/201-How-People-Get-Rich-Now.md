@@ -75,8 +75,8 @@
 
 [5] Lind, Michael. Land of Promise. HarperCollins, 2012.
 
-此外，20世纪中期的高税率也可能让人们不敢冒险创业。创业风险高，如果回报不足，人们自然会选择安全的职业路径。[- 英文版：http://paulgraham.com/inequality.html]
-- 中文版：https://hijiangchuan.com/201-How-People-Get-Rich-Now
+此外，20世纪中期的高税率也可能让人们不敢冒险创业。创业风险高，如果回报不足，人们自然会选择安全的职业路径。[英文版：https://paulgraham.com/inequality.html]
+中文版：https://hijiangchuan.com/201-How-People-Get-Rich-Now
 
 不过这并非单一因果关系。20世纪中期的高税率与寡头结构是同一体系的一部分。低税率不仅是创业的原因，也可能是结果：当时通过房地产和石油致富的人积极游说获得了大量税收漏洞，使得他们的实际税负大大降低。如果当时主流的致富方式是构建新技术的大企业，那些人也会去为自己的利益争取类似的税收政策。
 
@@ -98,8 +98,8 @@
 
 感谢Trevor Blackwell、Jessica Livingston、Bob Lesko、Robert Morris、Russ Roberts 和 Alex Tabarrok 阅读本文初稿，感谢Jon Erlichman提供增长数据。
 
-- 英文版：http://paulgraham.com/richnow.html
-- 中文版：https://hijiangchuan.com/201-How-People-Get-Rich-Now
+英文版：https://paulgraham.com/richnow.html
+中文版：https://hijiangchuan.com/201-How-People-Get-Rich-Now
 
 
 
