@@ -111,7 +111,7 @@
 
 感谢 Trevor Blackwell、John Carmack、John Collison、Patrick Collison、Robert Morris、Geoff Ralston 及 Harj Taggar 阅读本文草稿。
 
-英文版：[paulgraham.com/hwh.html](https://paulgraham.com/hwh.html)｜中文版：[hijiangchuan.com/207-How-to-Work-Hard](https://hijiangchuan.com/207-How-to-Work-Hard)
+英文版：[paulgraham.com/hwh.html](https://paulgraham.com/hwh.html)｜中文版：[hijiangchuan.com/paulgraham/207-How-to-Work-Hard](https://hijiangchuan.com/paulgraham/207-How-to-Work-Hard)
 
 更新记录：  
 - 2025-06-27 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

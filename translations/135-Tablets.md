@@ -25,7 +25,7 @@ iPhone与其说是手机，不如说是手机的替代品。这个区分至关�
 
 **注：** 本文初版使用"etherealization"而非"ephemeralization"，但前者实为他人向富勒建议的替代术语，后者才是他本人倾向的表述。
 
-英文版：[paulgraham.com/tablets.html](https://paulgraham.com/tablets.html)｜中文版：[hijiangchuan.com/135-tablets](https://hijiangchuan.com/135-tablets)
+英文版：[paulgraham.com/tablets.html](https://paulgraham.com/tablets.html)｜中文版：[hijiangchuan.com/paulgraham/135-tablets](https://hijiangchuan.com/paulgraham/135-tablets)
 
 
 

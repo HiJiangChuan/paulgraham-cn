@@ -75,7 +75,7 @@
 
 感谢Trevor Blackwell、Jessica Livingston和Geoff Ralston审阅本文
 
-英文版：[paulgraham.com/yahoo.html](https://paulgraham.com/yahoo.html)｜中文版：[hijiangchuan.com/130-what-happened-to-yahoo](https://hijiangchuan.com/130-what-happened-to-yahoo)
+英文版：[paulgraham.com/yahoo.html](https://paulgraham.com/yahoo.html)｜中文版：[hijiangchuan.com/paulgraham/130-what-happened-to-yahoo](https://hijiangchuan.com/paulgraham/130-what-happened-to-yahoo)
 
 
 

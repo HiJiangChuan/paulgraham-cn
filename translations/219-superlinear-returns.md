@@ -153,7 +153,7 @@ YC没有明确告诉创始人"付出多少就会得到多少"，但这个道理�
 
 [12] 常规思维者难以想象创新思维，因此将巨大绩效差异视为反常，归因于作弊或外部因素。
 
-英文版：[paulgraham.com/superlinear.html](https://paulgraham.com/superlinear.html)｜中文版：[hijiangchuan.com/219-superlinear-returns](https://hijiangchuan.com/219-superlinear-returns)
+英文版：[paulgraham.com/superlinear.html](https://paulgraham.com/superlinear.html)｜中文版：[hijiangchuan.com/paulgraham/219-superlinear-returns](https://hijiangchuan.com/paulgraham/219-superlinear-returns)
 
 
 

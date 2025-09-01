@@ -70,7 +70,7 @@
 
 感谢特雷弗·布莱克威尔、巴里·艾斯勒、莎拉·哈林、川合史郎、杰西卡·利文斯顿、杰基·麦克多诺、罗伯特·莫里斯和埃里克·雷蒙德阅读了本文的草稿。
 
-英文版：[paulgraham.com/usa.html](https://paulgraham.com/usa.html)｜中文版：[hijiangchuan.com/037-made-in-usa](https://hijiangchuan.com/037-made-in-usa)
+英文版：[paulgraham.com/usa.html](https://paulgraham.com/usa.html)｜中文版：[hijiangchuan.com/paulgraham/037-made-in-usa](https://hijiangchuan.com/paulgraham/037-made-in-usa)
 
 更新记录：
 - 2025-02-28 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

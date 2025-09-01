@@ -52,7 +52,7 @@ Lisp包含了九个新思想：
 
 这也不是始于Lisp并传播到其他语言的想法的完整列表。这些只是初始集合。在后续的Lisp实现中开发了更多，包括延续、多返回值、剩余参数和赋值(setf)反转。
 
-英文版：[paulgraham.com/diff.html](https://paulgraham.com/diff.html)｜中文版：[hijiangchuan.com/012-what-made-lisp-different](https://hijiangchuan.com/012-what-made-lisp-different)
+英文版：[paulgraham.com/diff.html](https://paulgraham.com/diff.html)｜中文版：[hijiangchuan.com/paulgraham/012-what-made-lisp-different](https://hijiangchuan.com/paulgraham/012-what-made-lisp-different)
 
 更新记录：
 - 2025-01-17 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

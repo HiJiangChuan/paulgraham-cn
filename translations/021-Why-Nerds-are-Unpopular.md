@@ -194,7 +194,7 @@
 
 感谢Sarah Harlin、Trevor Blackwell、Robert Morris、Eric Raymond和Jackie Weicker阅读了这篇文章的草稿，感谢Maria Daniels扫描照片。
 
-英文版：[paulgraham.com/nerds.html](https://paulgraham.com/nerds.html)｜中文版：[hijiangchuan.com/021-why-nerds-are-unpopular](https://hijiangchuan.com/021-why-nerds-are-unpopular)
+英文版：[paulgraham.com/nerds.html](https://paulgraham.com/nerds.html)｜中文版：[hijiangchuan.com/paulgraham/021-why-nerds-are-unpopular](https://hijiangchuan.com/paulgraham/021-why-nerds-are-unpopular)
 
 更新记录：
 - 2025-03-01 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

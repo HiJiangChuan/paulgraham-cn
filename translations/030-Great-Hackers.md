@@ -178,7 +178,7 @@
 
 感谢杰西卡·利文斯顿、罗伯特·莫里斯和莎拉·哈林阅读了这篇演讲的早期版本。
 
-英文版：[www.paulgraham.com/gh.html](https://www.paulgraham.com/gh.html)｜中文版：[hijiangchuan.com/030-great-hackers](https://hijiangchuan.com/030-great-hackers)
+英文版：[www.paulgraham.com/gh.html](https://www.paulgraham.com/gh.html)｜中文版：[hijiangchuan.com/paulgraham/030-great-hackers](https://hijiangchuan.com/paulgraham/030-great-hackers)
 
 更新记录：
 - 2025-03-27 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

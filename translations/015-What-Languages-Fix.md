@@ -68,7 +68,7 @@ Prolog：编程不够像逻辑。
 
 我寻找的并不是语言设计者的原始动机（Smalltalk最初是为儿童设计的），而是语言最初占据的利基。这种语言对它的第一批用户有什么吸引力？
 
-英文版：[paulgraham.com/fix.html](https://paulgraham.com/fix.html)｜中文版：[hijiangchuan.com/015-what-languages-fix](https://hijiangchuan.com/015-what-languages-fix)
+英文版：[paulgraham.com/fix.html](https://paulgraham.com/fix.html)｜中文版：[hijiangchuan.com/paulgraham/015-what-languages-fix](https://hijiangchuan.com/paulgraham/015-what-languages-fix)
 
 更新记录：
 - 2025-02-28 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

@@ -64,7 +64,7 @@
 
 [评论](http://reddit.com/info/8zp7/comments)这篇文章。
 
-英文版：[paulgraham.com/charisma.html](https://paulgraham.com/charisma.html)｜中文版：[hijiangchuan.com/036-its-charisma-stupid](https://hijiangchuan.com/036-its-charisma-stupid)
+英文版：[paulgraham.com/charisma.html](https://paulgraham.com/charisma.html)｜中文版：[hijiangchuan.com/paulgraham/036-its-charisma-stupid](https://hijiangchuan.com/paulgraham/036-its-charisma-stupid)
 
 更新记录：
 - 2025-03-18 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

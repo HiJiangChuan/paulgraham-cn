@@ -177,7 +177,7 @@
 
 感谢Trevor Blackwell、Robert Morris、Dan Giffin和Lisa Randall阅读了这篇文章的草稿，感谢Henry Leitner和Larry Finkelstein邀请我演讲。
 
-英文版：[paulgraham.com/hp.html](https://paulgraham.com/hp.html)｜中文版：[hijiangchuan.com/024-hackers-and-painters](https://hijiangchuan.com/024-hackers-and-painters)
+英文版：[paulgraham.com/hp.html](https://paulgraham.com/hp.html)｜中文版：[hijiangchuan.com/paulgraham/024-hackers-and-painters](https://hijiangchuan.com/paulgraham/024-hackers-and-painters)
 
 更新记录：
 - 2024-12-04 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

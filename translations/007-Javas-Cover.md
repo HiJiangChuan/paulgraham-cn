@@ -45,7 +45,7 @@
 
 在Java的情况下，我可能是错的。一个由一家大公司推广来削弱另一家公司的语言，由委员会为"主流"受众设计，被大肆宣传，受到国防部青睐，却恰好是一个干净、美丽、强大的语言，我会喜欢用它编程。这有可能，但看起来非常不可能。
 
-英文版：[paulgraham.com/javacover.html](https://paulgraham.com/javacover.html)｜中文版：[hijiangchuan.com/007-javas-cover](https://hijiangchuan.com/007-javas-cover)
+英文版：[paulgraham.com/javacover.html](https://paulgraham.com/javacover.html)｜中文版：[hijiangchuan.com/paulgraham/007-javas-cover](https://hijiangchuan.com/paulgraham/007-javas-cover)
 
 更新记录：
 - 2025-01-19 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

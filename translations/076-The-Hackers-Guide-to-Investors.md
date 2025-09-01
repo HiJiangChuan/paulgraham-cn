@@ -43,7 +43,7 @@
 
 
 
-英文版：[paulgraham.com/guidetoinvestors.html](https://paulgraham.com/guidetoinvestors.html)｜中文版：[hijiangchuan.com/076-The-Hackers-Guide-to-Investors](https://hijiangchuan.com/076-The-Hackers-Guide-to-Investors)
+英文版：[paulgraham.com/guidetoinvestors.html](https://paulgraham.com/guidetoinvestors.html)｜中文版：[hijiangchuan.com/paulgraham/076-The-Hackers-Guide-to-Investors](https://hijiangchuan.com/paulgraham/076-The-Hackers-Guide-to-Investors)
 
 更新记录：
 - 2025-04-14 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证； 

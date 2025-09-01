@@ -54,7 +54,7 @@
 [5] 仅有精力与想象力会造就传统艺术家形象
 [6] 新人宜从具体目标入手，逐步扩展
 
-英文版：[paulgraham.com/persistence.html](https://paulgraham.com/persistence.html)｜中文版：[hijiangchuan.com/223-the-right-kind-of-stubborn](https://hijiangchuan.com/223-the-right-kind-of-stubborn)
+英文版：[paulgraham.com/persistence.html](https://paulgraham.com/persistence.html)｜中文版：[hijiangchuan.com/paulgraham/223-the-right-kind-of-stubborn](https://hijiangchuan.com/paulgraham/223-the-right-kind-of-stubborn)
 
 
 

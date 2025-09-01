@@ -14,7 +14,7 @@
 
 在这篇文章中，我将尝试用最简单的术语解释McCarthy的发现。重点不仅仅是学习40年前某人发现的一个有趣的理论结果，而是要展示语言的发展方向。Lisp的独特之处 — 事实上，Lisp的定义性特征 — 是它可以用自身来编写。为了理解McCarthy这句话的含义，我们将重走他的脚步，把他的数学符号翻译成可运行的Common Lisp代码。
 
-英文版：[paulgraham.com/rootsoflisp.html](https://paulgraham.com/rootsoflisp.html)｜中文版：[hijiangchuan.com/010-the-roots-of-lisp](https://hijiangchuan.com/010-the-roots-of-lisp)
+英文版：[paulgraham.com/rootsoflisp.html](https://paulgraham.com/rootsoflisp.html)｜中文版：[hijiangchuan.com/paulgraham/010-the-roots-of-lisp](https://hijiangchuan.com/paulgraham/010-the-roots-of-lisp)
 
 更新记录：
 - 2025-03-16 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

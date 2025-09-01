@@ -147,7 +147,7 @@
 
 感谢Sam Altman、Trevor Blackwell、Jessica Livingston、Robert Morris、Courtenay Pipkin和Harj Taggar阅读本文草稿。
 
-英文版：[paulgraham.com/best.html](https://paulgraham.com/best.html)｜中文版：[hijiangchuan.com/220-the-best-essay](https://hijiangchuan.com/220-the-best-essay)
+英文版：[paulgraham.com/best.html](https://paulgraham.com/best.html)｜中文版：[hijiangchuan.com/paulgraham/220-the-best-essay](https://hijiangchuan.com/paulgraham/220-the-best-essay)
 
 
 

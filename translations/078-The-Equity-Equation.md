@@ -53,7 +53,7 @@ Sequoia是如此好的交易的原因是他们所占的公司股份比例人为�
 
 感谢 Sam Altman、Trevor Blackwell、Paul Buchheit、Hutch Fishman、David Hornik、Paul Kedrosky、Jessica Livingston、Gary Sabot和Joshua Schachter审阅本文草稿。
 
-英文版：[paulgraham.com/equity.html](https://paulgraham.com/equity.html)｜中文版：[hijiangchuan.com/078-the-equity-equation](https://hijiangchuan.com/078-the-equity-equation)
+英文版：[paulgraham.com/equity.html](https://paulgraham.com/equity.html)｜中文版：[hijiangchuan.com/paulgraham/078-the-equity-equation](https://hijiangchuan.com/paulgraham/078-the-equity-equation)
 
 
 

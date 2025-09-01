@@ -45,7 +45,7 @@
 
 所以，也许衰退期的确是个好时候创业。很难说，竞争减少这样的优势是否能抵消投资人退缩这样的劣势。但无论如何这并不重要。关键还是人。对一群特定的人在做某一项特定的技术来说，最佳的行动时机永远是现在。
 
-英文版：[paulgraham.com/badeconomy.html](https://paulgraham.com/badeconomy.html)｜中文版：[hijiangchuan.com/099-Why-to-Start-a-Startup-in-a-Bad-Economy](https://hijiangchuan.com/099-Why-to-Start-a-Startup-in-a-Bad-Economy)
+英文版：[paulgraham.com/badeconomy.html](https://paulgraham.com/badeconomy.html)｜中文版：[hijiangchuan.com/paulgraham/099-Why-to-Start-a-Startup-in-a-Bad-Economy](https://hijiangchuan.com/paulgraham/099-Why-to-Start-a-Startup-in-a-Bad-Economy)
 
 更新记录：
 - 2025-09-01 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

@@ -334,7 +334,7 @@ LL1上的一些邮件促使我尝试更深入地探讨语言威力这个主题�
 
 [日语翻译](http://www.shiro.dreamhost.com/scheme/trans/icad-j.html)，[西班牙语翻译](http://kapcoweb.com/p/docs/translations/revenge_of_the_nerds/revenge_of_the_nerds-es.html)，[中文翻译](http://flyingapplet.spaces.live.com/blog/cns!F682AFBD82F7E261!375.entry)
 
-英文版：[paulgraham.com/icad.html](https://paulgraham.com/icad.html)｜中文版：[hijiangchuan.com/017-revenge-of-the-nerds](https://hijiangchuan.com/017-revenge-of-the-nerds)
+英文版：[paulgraham.com/icad.html](https://paulgraham.com/icad.html)｜中文版：[hijiangchuan.com/paulgraham/017-revenge-of-the-nerds](https://hijiangchuan.com/paulgraham/017-revenge-of-the-nerds)
 
 更新记录：
 - 2025-02-25 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

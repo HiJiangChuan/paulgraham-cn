@@ -156,7 +156,7 @@ Siegel, Jeremy J. "What Is an Asset Price Bubble? An Operational Definition." Eu
 
 感谢克里斯·安德森、特雷弗·布莱克威尔、莎拉·哈林、杰西卡·利文斯顿和罗伯特·莫里斯阅读了这篇演讲的草稿。
 
-英文版：[paulgraham.com/bubble.html](https://paulgraham.com/bubble.html)｜中文版：[hijiangchuan.com/033-what-the-bubble-got-right](https://hijiangchuan.com/033-what-the-bubble-got-right)
+英文版：[paulgraham.com/bubble.html](https://paulgraham.com/bubble.html)｜中文版：[hijiangchuan.com/paulgraham/033-what-the-bubble-got-right](https://hijiangchuan.com/paulgraham/033-what-the-bubble-got-right)
 
 更新记录：
 - 2025-03-02 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
