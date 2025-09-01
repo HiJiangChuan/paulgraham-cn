@@ -272,8 +272,8 @@ Sam Altman那时也开始频繁出现在我们办公室。他最早只是来指�
 我写下这篇文章，是想把我的人生工作轨迹做一个总结。它不是为招聘官写的简历，而是为那些想知道“你一生都在做什么”的朋友写的。现在你知道了，我一直在做我认为最值得做的事。而且，我会继续做下去。
 
 
-英文版：https://paulgraham.com/worked.html
-中文版：https://hijiangchuan.com/198-What-I-Worked-On
+- 英文版：http://paulgraham.com/worked.html
+- 中文版：https://hijiangchuan.com/198-What-I-Worked-On
 
 更新记录：
 - 2025-07-24 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

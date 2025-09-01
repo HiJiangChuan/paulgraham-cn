@@ -141,8 +141,8 @@ Richard Kelsey在上一次小组讨论中提出这是一个时机已到的想法
 
 设计一门好语言是否必须冒险？许多人可能怀疑语言设计是应该相当严格地遵循传统智慧的事情。我打赌这不是真的。在人们做的其他任何事情中，回报都与风险成正比。为什么语言设计应该不同？
 
-英文版：https://paulgraham.com/langdes.html
-中文版：https://hijiangchuan.com/009-Five-Questions-about-Language-Design
+- 英文版：http://paulgraham.com/langdes.html
+- 中文版：https://hijiangchuan.com/009-Five-Questions-about-Language-Design
 
 
 更新记录：

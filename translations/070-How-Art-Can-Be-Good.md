@@ -117,8 +117,8 @@
 
 感谢Trevor Blackwell、Jessica Livingston和Robert Morris阅读本文的草稿，感谢Paul Watson允许使用顶部的图片。[评论](http://reddit.com/info/ufsk/comments)本文。
 
-英文版：https://paulgraham.com/goodart.html
-中文版：https://hijiangchuan.com/070-How-Art-Can-Be-Good
+- 英文版：http://paulgraham.com/goodart.html
+- 中文版：https://hijiangchuan.com/070-How-Art-Can-Be-Good
 
 
 

@@ -128,8 +128,8 @@ http://www.blackboxhosting.com/foo
 12_F.R.E.E._Hamburgers & Half_Price_Steaks
 这已经触及了“合理否认”的极限。你不得不怀疑，他们在一边声称收件人是自愿的，一边却采取如此明显的手段来欺骗过滤器。下一步是什么？来自 0ma_ha 5teakz 的邮件？
 
-英文版：https://paulgraham.com/sofar.html
-中文版：https://hijiangchuan.com/000-01-So-Far-So-Good
+- 英文版：http://paulgraham.com/sofar.html
+- 中文版：https://hijiangchuan.com/000-01-So-Far-So-Good
 
 更新记录：
 2025-08-25 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

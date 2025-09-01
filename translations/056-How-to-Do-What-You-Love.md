@@ -164,8 +164,8 @@
 
 感谢Trevor Blackwell、Dan Friedman、Sarah Harlin、Jessica Livingston、Jackie McDonough、Robert Morris、Peter Norvig、David Sloo和Aaron Swartz阅读本文草稿。
 
-英文版：https://paulgraham.com/love.html
-中文版：https://hijiangchuan.com/056-How-to-Do-What-You-Love
+- 英文版：http://paulgraham.com/love.html
+- 中文版：https://hijiangchuan.com/056-How-to-Do-What-You-Love
 
 
 更新记录：

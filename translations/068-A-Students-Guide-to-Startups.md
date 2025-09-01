@@ -171,8 +171,8 @@ Viaweb在这方面也是一个异常。虽然我们相对年长，但我们没�
 
 [评论](http://reddit.com/info/l1xb/comments)本文。
 
-英文版：https://paulgraham.com/mit.html
-中文版：https://hijiangchuan.com/068-A-Students-Guide-to-Startups
+- 英文版：http://paulgraham.com/mit.html
+- 中文版：https://hijiangchuan.com/068-A-Students-Guide-to-Startups
 
 
 
