@@ -140,7 +140,7 @@ Subject*Free!!! Subject*free!!! Subject*FREE! Subject*Free! Subject*free! Subjec
 
 注释
 
-[1] Paul Graham. "A Plan for Spam." 2002年8月. http://paulgraham.com/spam.html.
+[1] Paul Graham. "A Plan for Spam." 2002年8月. https://paulgraham.com/spam.html.
 
 这个算法中的概率是使用贝叶斯规则的一个退化情况计算的。有两个简化假设：特征（即词）的概率是独立的，我们对邮件是垃圾邮件的先验概率一无所知。
 

@@ -136,7 +136,7 @@ But the real advantage of individual filters is that they'll all be different. I
 
 Notes
 
-[1] Paul Graham. ``A Plan for Spam.'' August 2002. http://paulgraham.com/spam.html.
+[1] Paul Graham. ``A Plan for Spam.'' August 2002. https://paulgraham.com/spam.html.
 
 Probabilities in this algorithm are calculated using a degenerate case of Bayes' Rule. There are two simplifying assumptions: that the probabilities of features (i.e. words) are independent, and that we know nothing about the prior probability of an email being spam.
 
