@@ -63,7 +63,7 @@
 
 现在我要告诉你们：坏事即将发生。创业路上灾难从不缺席，从创立到上市而不遭遇重大危机的概率只有千分之一。所以切勿气馁。当灾难降临时，请默念：这就是Paul说过的困境。他建议怎么做？对了，不要放弃。
 
-英文版：[paulgraham.com/die.html](https://paulgraham.com/die.html)｜中文版：[hijiangchuan.com/paulgraham/081-how-not-to-die](https://hijiangchuan.com/paulgraham/081-how-not-to-die)
+英文版：[paulgraham.com/die.html](https://paulgraham.com/die.html)｜中文版：[HiJiangChuan.com/paulgraham/081-how-not-to-die](https://hijiangchuan.com/paulgraham/081-how-not-to-die)
 
 
 

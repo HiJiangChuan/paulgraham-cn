@@ -50,7 +50,7 @@
 好消息是，如果你在不知不觉中背负着这样的负担，你的生活可能比你想象的更好。想象一下：多年来，你一直背着五磅（约2.3公斤）的背包四处走动，却浑然不觉……
 
 
-英文版：[paulgraham.com/stuff.html](https://paulgraham.com/stuff.html)｜中文版：[hijiangchuan.com/paulgraham/079-stuff](https://hijiangchuan.com/paulgraham/079-stuff)
+英文版：[paulgraham.com/stuff.html](https://paulgraham.com/stuff.html)｜中文版：[HiJiangChuan.com/paulgraham/079-stuff](https://hijiangchuan.com/paulgraham/079-stuff)
 
 
 

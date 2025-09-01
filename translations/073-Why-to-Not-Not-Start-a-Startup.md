@@ -235,7 +235,7 @@
 
 [评论](http://news.ycombinator.com/comments?id=6668)本文。
 
-英文版：[paulgraham.com/notnot.html](https://paulgraham.com/notnot.html)｜中文版：[hijiangchuan.com/paulgraham/073-why-to-not-not-start-a-startup](https://hijiangchuan.com/paulgraham/073-why-to-not-not-start-a-startup)
+英文版：[paulgraham.com/notnot.html](https://paulgraham.com/notnot.html)｜中文版：[HiJiangChuan.com/paulgraham/073-why-to-not-not-start-a-startup](https://hijiangchuan.com/paulgraham/073-why-to-not-not-start-a-startup)
 
 
 

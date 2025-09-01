@@ -25,7 +25,7 @@
 
 事实上，有一个更简单的解释。二十世纪初只是一个快速增长的创业公司在基础设施上过度支出。而我们现在的人并不是一个堕落的民族，没有放弃那些神秘的高尚原则，这些原则产生了高薪工会工作。我们只是生活在一个快速增长的公司在不同的事情上过度支出的时代。
 
-英文版：[paulgraham.com/unions.html](https://paulgraham.com/unions.html)｜中文版：[hijiangchuan.com/paulgraham/077-an-alternative-theory-of-unions](https://hijiangchuan.com/paulgraham/077-an-alternative-theory-of-unions)
+英文版：[paulgraham.com/unions.html](https://paulgraham.com/unions.html)｜中文版：[HiJiangChuan.com/paulgraham/077-an-alternative-theory-of-unions](https://hijiangchuan.com/paulgraham/077-an-alternative-theory-of-unions)
 
 更新记录：
 - 2025-04-14 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

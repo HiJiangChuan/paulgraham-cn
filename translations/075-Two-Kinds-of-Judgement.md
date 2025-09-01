@@ -27,7 +27,7 @@
 
 一个应用这个原则的好地方是在大学申请中。大多数高中生申请大学时，都是以通常的孩子的自卑和自我中心的混合：自卑是因为他们认为招生委员会一定是全知的；自我中心是因为他们认为招生委员会足够关心他们，以深入研究他们的申请，弄清楚他们是否优秀。这些结合起来使申请人在申请时被动，并在被拒绝时受到伤害。如果大学申请者意识到大多数选择过程是多么快速和非个人化，他们会更努力地推销自己，并且不那么个人化地看待结果。
 
-英文版：[paulgraham.com/judgement.html](https://paulgraham.com/judgement.html)｜中文版：[hijiangchuan.com/paulgraham/075-two-kinds-of-judgement](https://hijiangchuan.com/paulgraham/075-two-kinds-of-judgement)
+英文版：[paulgraham.com/judgement.html](https://paulgraham.com/judgement.html)｜中文版：[HiJiangChuan.com/paulgraham/075-two-kinds-of-judgement](https://hijiangchuan.com/paulgraham/075-two-kinds-of-judgement)
 
 
 

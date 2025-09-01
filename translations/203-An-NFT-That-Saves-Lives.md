@@ -19,7 +19,7 @@ NFT是一个新领域，而以这种方式使用它，更是前所未有。但�
 
 底价大约为250万美元，因为只有这样它的名字才是准确的：这正是挽救2000条生命所需的成本。但这枚NFT的价格越高，所能拯救的生命就越多。能写出这样一句话，真令人激动。
 
-英文版：[paulgraham.com/nft.html](https://paulgraham.com/nft.html)｜中文版：[hijiangchuan.com/paulgraham/203-An-NFT-That-Saves-Lives](https://hijiangchuan.com/paulgraham/203-An-NFT-That-Saves-Lives)
+英文版：[paulgraham.com/nft.html](https://paulgraham.com/nft.html)｜中文版：[HiJiangChuan.com/paulgraham/203-An-NFT-That-Saves-Lives](https://hijiangchuan.com/paulgraham/203-An-NFT-That-Saves-Lives)
 
 
 

@@ -60,7 +60,7 @@
 
 感谢Trevor Blackwell、Sarah Harlin、Jessica Livingston和Robert Morris阅读本文草稿。
 
-英文版：[paulgraham.com/vcsqueeze.html](https://paulgraham.com/vcsqueeze.html)｜中文版：[hijiangchuan.com/paulgraham/052-the-venture-capital-squeeze](https://hijiangchuan.com/paulgraham/052-the-venture-capital-squeeze)
+英文版：[paulgraham.com/vcsqueeze.html](https://paulgraham.com/vcsqueeze.html)｜中文版：[HiJiangChuan.com/paulgraham/052-the-venture-capital-squeeze](https://hijiangchuan.com/paulgraham/052-the-venture-capital-squeeze)
 
 更新记录：
 - 2025-03-26 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

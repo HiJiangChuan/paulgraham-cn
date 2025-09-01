@@ -207,7 +207,7 @@ World Bank, Doing Business in 2006 , http://doingbusiness.org
 
 感谢Trevor Blackwell、Matthias Felleisen、Jessica Livingston、Robert Morris、Neil Rimer、Hugues Steinier、Brad Templeton、Fred Wilson和Stephen Wolfram阅读本文的草稿，感谢Ed Dumbill邀请我演讲。
 
-英文版：[paulgraham.com/america.html](https://paulgraham.com/america.html)｜中文版：[hijiangchuan.com/paulgraham/063-why-startups-condense-in-america](https://hijiangchuan.com/paulgraham/063-why-startups-condense-in-america)
+英文版：[paulgraham.com/america.html](https://paulgraham.com/america.html)｜中文版：[HiJiangChuan.com/paulgraham/063-why-startups-condense-in-america](https://hijiangchuan.com/paulgraham/063-why-startups-condense-in-america)
 
 
 

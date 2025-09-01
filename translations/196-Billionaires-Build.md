@@ -107,7 +107,7 @@ YC 当然见过那些以剥削为方法论的创始人。他们被 YC 品牌吸�
 
 感谢 Trevor Blackwell、Jessica Livingston、Robert Morris、Geoff Ralston 和 Harj Taggar 阅读初稿。
 
-英文版：[paulgraham.com/ace.html](https://paulgraham.com/ace.html)｜中文版：[hijiangchuan.com/paulgraham/196-Billionaires-Build](https://hijiangchuan.com/paulgraham/196-Billionaires-Build)
+英文版：[paulgraham.com/ace.html](https://paulgraham.com/ace.html)｜中文版：[HiJiangChuan.com/paulgraham/196-Billionaires-Build](https://hijiangchuan.com/paulgraham/196-Billionaires-Build)
 
 
 

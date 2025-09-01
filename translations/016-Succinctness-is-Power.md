@@ -112,7 +112,7 @@ Brooks的假设，如果是真的，似乎处于黑客工作的核心。在随�
 
 （提醒：我在寻找的是根据上面概述的"元素"衡量标准非常密集的程序，而不仅仅是那些因为可以省略分隔符而变短，而且所有东西都只有一个字符名称的程序。）
 
-英文版：[paulgraham.com/power.html](https://paulgraham.com/power.html)｜中文版：[hijiangchuan.com/paulgraham/016-succinctness-is-power](https://hijiangchuan.com/paulgraham/016-succinctness-is-power)
+英文版：[paulgraham.com/power.html](https://paulgraham.com/power.html)｜中文版：[HiJiangChuan.com/paulgraham/016-succinctness-is-power](https://hijiangchuan.com/paulgraham/016-succinctness-is-power)
 
 更新记录：
 - 2025-02-17 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

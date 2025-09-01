@@ -55,7 +55,7 @@
 
 因此，花些精力来反击，保持言论自由的窗口，或许是值得的。
 
-英文版：[paulgraham.com/heresy.html](https://paulgraham.com/heresy.html)｜中文版：[hijiangchuan.com/paulgraham/212-Heresy](https://hijiangchuan.com/paulgraham/212-Heresy)
+英文版：[paulgraham.com/heresy.html](https://paulgraham.com/heresy.html)｜中文版：[HiJiangChuan.com/paulgraham/212-Heresy](https://hijiangchuan.com/paulgraham/212-Heresy)
 
 
 

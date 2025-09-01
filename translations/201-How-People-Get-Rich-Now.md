@@ -97,7 +97,7 @@
 
 感谢Trevor Blackwell、Jessica Livingston、Bob Lesko、Robert Morris、Russ Roberts 和 Alex Tabarrok 阅读本文初稿，感谢Jon Erlichman提供增长数据。
 
-英文版：[paulgraham.com/richnow.html](https://paulgraham.com/richnow.html)｜中文版：[hijiangchuan.com/paulgraham/201-How-People-Get-Rich-Now](https://hijiangchuan.com/paulgraham/201-How-People-Get-Rich-Now)
+英文版：[paulgraham.com/richnow.html](https://paulgraham.com/richnow.html)｜中文版：[HiJiangChuan.com/paulgraham/201-How-People-Get-Rich-Now](https://hijiangchuan.com/paulgraham/201-How-People-Get-Rich-Now)
 
 
 

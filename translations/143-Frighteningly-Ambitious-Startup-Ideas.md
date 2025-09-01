@@ -138,7 +138,7 @@ Gmail之所以慢，是因为谷歌无法在它身上投入太多。但人们会
 
 感谢Sam Altman、Trevor Blackwell、Paul Buchheit、Patrick Collison、Aaron Iba、Jessica Livingston、Robert Morris、Harj Taggar和Garry Tan阅读本文的草稿。
 
-英文版：[paulgraham.com/ambitious.html](https://paulgraham.com/ambitious.html)｜中文版：[hijiangchuan.com/paulgraham/143-frighteningly-ambitious-startup-ideas](https://hijiangchuan.com/paulgraham/143-frighteningly-ambitious-startup-ideas)
+英文版：[paulgraham.com/ambitious.html](https://paulgraham.com/ambitious.html)｜中文版：[HiJiangChuan.com/paulgraham/143-frighteningly-ambitious-startup-ideas](https://hijiangchuan.com/paulgraham/143-frighteningly-ambitious-startup-ideas)
 
 更新记录：
 - 2025-02-10 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

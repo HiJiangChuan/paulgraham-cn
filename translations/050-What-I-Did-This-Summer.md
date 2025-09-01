@@ -118,7 +118,7 @@ SFP的经验表明，如果你让有动力的人做真正的工作，无论他�
 
 感谢Sarah Harlin、Steve Huffman、Jessica Livingston、Zak Stone和Aaron Swartz阅读本文的草稿。想创办创业公司吗？YC[冬季创始人项目](http://ycombinator.com/wfp2006.html)。
 
-英文版：[paulgraham.com/sfp.html](https://paulgraham.com/sfp.html)｜中文版：[hijiangchuan.com/paulgraham/050-what-i-did-this-summer](https://hijiangchuan.com/paulgraham/050-what-i-did-this-summer)
+英文版：[paulgraham.com/sfp.html](https://paulgraham.com/sfp.html)｜中文版：[HiJiangChuan.com/paulgraham/050-what-i-did-this-summer](https://hijiangchuan.com/paulgraham/050-what-i-did-this-summer)
 
 更新记录：
 - 2025-03-04 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

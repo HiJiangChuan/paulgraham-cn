@@ -41,7 +41,7 @@
 
 感谢Jessica Livingston和Chris Steiner审阅本文。
 
-英文版：[paulgraham.com/founders.html](https://paulgraham.com/founders.html)｜中文版：[hijiangchuan.com/paulgraham/134-what-we-look-for-in-founders](https://hijiangchuan.com/paulgraham/134-what-we-look-for-in-founders)
+英文版：[paulgraham.com/founders.html](https://paulgraham.com/founders.html)｜中文版：[HiJiangChuan.com/paulgraham/134-what-we-look-for-in-founders](https://hijiangchuan.com/paulgraham/134-what-we-look-for-in-founders)
 
 
 

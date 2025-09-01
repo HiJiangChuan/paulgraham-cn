@@ -85,7 +85,7 @@
 
 感谢Trevor Blackwell、Robert Morris和Eric Raymond阅读了这篇文章的草稿。
 
-英文版：[paulgraham.com/hundred.html](https://paulgraham.com/hundred.html)｜中文版：[hijiangchuan.com/paulgraham/022-the-hundred-year-language](https://hijiangchuan.com/paulgraham/022-the-hundred-year-language)
+英文版：[paulgraham.com/hundred.html](https://paulgraham.com/hundred.html)｜中文版：[HiJiangChuan.com/paulgraham/022-the-hundred-year-language](https://hijiangchuan.com/paulgraham/022-the-hundred-year-language)
 
 更新记录：
 - 2024-12-06 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

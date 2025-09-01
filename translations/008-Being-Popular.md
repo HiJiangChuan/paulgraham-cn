@@ -255,7 +255,7 @@ Common Lisp中最不Lisp的语法之一是格式字符串中的语法；format�
 
 [2] 在When the Air Hits Your Brain中，神经外科医生Frank Vertosick讲述了一个对话，其中他的首席住院医师Gary谈到外科医生和内科医生("跳蚤")的区别：Gary和我点了一个大披萨，找到了一个空位。首席点了一支烟。"看看那些该死的跳蚤，喋喋不休地谈论他们一生中只会看到一次的疾病。这就是跳蚤的问题，他们只喜欢奇怪的东西。他们讨厌他们的日常病例。这就是我们和该死的跳蚤的区别。看，我们喜欢大而多汁的腰椎间盘突出，但他们讨厌高血压...."很难把腰椎间盘突出想象为多汁的(除了字面意思)。然而我认为我知道他们的意思。我经常有一个多汁的bug要追踪。不是程序员的人会觉得很难想象bug中会有乐趣。当然，如果一切都能正常工作会更好。在某种意义上，是的。然而，在追踪某些类型的bug时，确实有一种阴沉的满足感。
 
-英文版：[paulgraham.com/popular.html](https://paulgraham.com/popular.html)｜中文版：[hijiangchuan.com/paulgraham/008-being-popular](https://hijiangchuan.com/paulgraham/008-being-popular)
+英文版：[paulgraham.com/popular.html](https://paulgraham.com/popular.html)｜中文版：[HiJiangChuan.com/paulgraham/008-being-popular](https://hijiangchuan.com/paulgraham/008-being-popular)
 
 更新记录：
 - 2025-02-22 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

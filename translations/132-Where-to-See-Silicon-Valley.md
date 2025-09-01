@@ -59,7 +59,7 @@
 
 感谢Sam Altman、Paul Buchheit、Patrick Collison和Jessica Livingston审阅本文。
 
-英文版：[paulgraham.com/seesv.html](https://paulgraham.com/seesv.html)｜中文版：[hijiangchuan.com/paulgraham/132-where-to-see-silicon-valley](https://hijiangchuan.com/paulgraham/132-where-to-see-silicon-valley)
+英文版：[paulgraham.com/seesv.html](https://paulgraham.com/seesv.html)｜中文版：[HiJiangChuan.com/paulgraham/132-where-to-see-silicon-valley](https://hijiangchuan.com/paulgraham/132-where-to-see-silicon-valley)
 
 
 

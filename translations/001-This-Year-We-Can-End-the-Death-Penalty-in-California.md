@@ -22,7 +22,7 @@
 
 是时候了。
 
-英文版：[paulgraham.com/prop62.html](https://paulgraham.com/prop62.html)｜中文版：[hijiangchuan.com/paulgraham/001-this-year-we-can-end-the-death-penalty-in-california](https://hijiangchuan.com/paulgraham/001-this-year-we-can-end-the-death-penalty-in-california)
+英文版：[paulgraham.com/prop62.html](https://paulgraham.com/prop62.html)｜中文版：[HiJiangChuan.com/paulgraham/001-this-year-we-can-end-the-death-penalty-in-california](https://hijiangchuan.com/paulgraham/001-this-year-we-can-end-the-death-penalty-in-california)
 
 更新记录：
 - 2025-01-10 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

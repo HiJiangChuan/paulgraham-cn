@@ -31,7 +31,7 @@
 
 [1] "但是如果不理解你所有的新工具，没有人能读懂这个程序。"要了解为什么这种说法通常是错误的，请参见4.8节。
 
-英文版：[paulgraham.com/progbot.html](https://paulgraham.com/progbot.html)｜中文版：[hijiangchuan.com/paulgraham/002-programming-bottom-up](https://hijiangchuan.com/paulgraham/002-programming-bottom-up)
+英文版：[paulgraham.com/progbot.html](https://paulgraham.com/progbot.html)｜中文版：[HiJiangChuan.com/paulgraham/002-programming-bottom-up](https://hijiangchuan.com/paulgraham/002-programming-bottom-up)
 
 更新记录：
 - 2025-03-12 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

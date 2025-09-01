@@ -25,7 +25,7 @@
 
 b) 你的室友饿了。我说选择 b。没有人知道是谁说的"永远不要把可以用无能解释的事情归因于恶意"，但这是一个强大的想法。它的更普遍版本是我们对希腊人的回答：不要在没有目的的地方看到目的。或者更好的是，积极版本：看到随机性。
 
-英文版：[paulgraham.com/randomness.html](https://paulgraham.com/randomness.html)｜中文版：[hijiangchuan.com/paulgraham/060-see-randomness](https://hijiangchuan.com/paulgraham/060-see-randomness)
+英文版：[paulgraham.com/randomness.html](https://paulgraham.com/randomness.html)｜中文版：[HiJiangChuan.com/paulgraham/060-see-randomness](https://hijiangchuan.com/paulgraham/060-see-randomness)
 
 更新记录：
 - 2025-02-14 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；

@@ -168,7 +168,7 @@ Google是一个罕见的大公司例子，它与我所描述的力量保持一�
 
 感谢Sarah Harlin、Jessica Livingston和Robert Morris阅读本文的草稿。
 
-英文版：[paulgraham.com/opensource.html](https://paulgraham.com/opensource.html)｜中文版：[hijiangchuan.com/paulgraham/047-what-business-can-learn-from-open-source](https://hijiangchuan.com/paulgraham/047-what-business-can-learn-from-open-source)
+英文版：[paulgraham.com/opensource.html](https://paulgraham.com/opensource.html)｜中文版：[HiJiangChuan.com/paulgraham/047-what-business-can-learn-from-open-source](https://hijiangchuan.com/paulgraham/047-what-business-can-learn-from-open-source)
 
 更新记录：
 - 2025-02-07 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
