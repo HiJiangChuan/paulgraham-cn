@@ -110,6 +110,8 @@
 - 142 [致善于变通者的一席话](https://hijiangchuan.com/paulgraham/142-A-Word-to-the-Resourceful/) (日期待补充)
 - 143 [令人望而生畏的创业想法](https://hijiangchuan.com/paulgraham/143-Frighteningly-Ambitious-Startup-Ideas/) (2012年03月)
 - 144 [定义财产](https://hijiangchuan.com/paulgraham/144-Defining-Property/) (2012年03月)
+- 158 [刻薄的人终将失败](https://hijiangchuan.com/paulgraham/158-Mean-People-Fail/) (2014年11月)
+- 163 [不要和企业并购发展部谈判](https://hijiangchuan.com/paulgraham/163-Dont-Talk-to-Corp-Dev/) (2015年01月)
 - 194 [如何独立思考](https://hijiangchuan.com/paulgraham/194-How-to-Think-for-Yourself/) (2020年11月)
 - 195 [Airbnb 创业记](https://hijiangchuan.com/paulgraham/195-The-Airbnbs/) (2020年12月)
 - 196 [亿万富翁靠创造，不靠剥削](https://hijiangchuan.com/paulgraham/196-Billionaires-Build/) (2020年12月)
