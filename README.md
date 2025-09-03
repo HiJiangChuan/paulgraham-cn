@@ -92,6 +92,7 @@
 - 099 [为什么要在经济不景气时创业](https://hijiangchuan.com/paulgraham/099-Why-to-Start-a-Startup-in-a-Bad-Economy/) (2008年10月)
 - 108 [为什么电视输了](https://hijiangchuan.com/paulgraham/108-Why-TV-Lost/) (2009年03月)
 - 126 [如何挥霍时间与金钱](https://hijiangchuan.com/paulgraham/126-How-to-Lose-Time-and-Money/) (日期待补充)
+- 127 [你脑中最重要的想法](https://hijiangchuan.com/paulgraham/127-The-Top-Idea-in-Your-Mind/) (2010年07月)
 - 128 [成瘾性的加速](https://hijiangchuan.com/paulgraham/128-The-Acceleration-of-Addictiveness/) (2010年07月)
 - 129 [创业融资的未来格局](https://hijiangchuan.com/paulgraham/129-The-Future-of-Startup-Funding/) (2010年08月)
 - 130 [雅虎的衰落](https://hijiangchuan.com/paulgraham/130-What-Happened-to-Yahoo/) (2010年08月)
