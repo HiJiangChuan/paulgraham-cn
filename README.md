@@ -91,6 +91,7 @@
 - 082 [来自前线的消息](https://hijiangchuan.com/paulgraham/082-news-from-the-front/) (2007年09月)
 - 099 [为什么要在经济不景气时创业](https://hijiangchuan.com/paulgraham/099-Why-to-Start-a-Startup-in-a-Bad-Economy/) (2008年10月)
 - 108 [为什么电视输了](https://hijiangchuan.com/paulgraham/108-Why-TV-Lost/) (2009年03月)
+- 125 [自然生长的创业点子](https://hijiangchuan.com/paulgraham/125-Organic-Startup-Ideas/) (2010年04月)
 - 126 [如何挥霍时间与金钱](https://hijiangchuan.com/paulgraham/126-How-to-Lose-Time-and-Money/) (日期待补充)
 - 127 [你脑中最重要的想法](https://hijiangchuan.com/paulgraham/127-The-Top-Idea-in-Your-Mind/) (2010年07月)
 - 128 [成瘾性的加速](https://hijiangchuan.com/paulgraham/128-The-Acceleration-of-Addictiveness/) (2010年07月)
