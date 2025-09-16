@@ -38,7 +38,7 @@
 - 029 [差距](https://hijiangchuan.com/paulgraham/029-Mind-the-Gap/) (2004年05月)
 - 030 [伟大的黑客](https://hijiangchuan.com/paulgraham/030-Great-Hackers/) (2004年07月)
 - 031 [Python悖论](https://hijiangchuan.com/paulgraham/031-The-Python-Paradox/) (2004年08月)
-- 032 [散文时代](https://hijiangchuan.com/paulgraham/032-The-Age-of-the-Essay/) (2004年09月)
+- 032 [随笔的时代](https://hijiangchuan.com/paulgraham/032-The-Age-of-the-Essay/) (2004年09月)
 - 033 [互联网泡沫中正确的东西](https://hijiangchuan.com/paulgraham/033-What-the-Bubble-Got-Right/) (2004年09月)
 - 034 [版本 1.0](https://hijiangchuan.com/paulgraham/034-A-Version-1.0/) (2004年09月)
 - 035 [布拉德利幽灵](https://hijiangchuan.com/paulgraham/035-Bradleys-Ghost/) (2004年11月)
