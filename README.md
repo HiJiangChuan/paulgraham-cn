@@ -91,6 +91,7 @@
 - 082 [来自前线的消息](https://hijiangchuan.com/paulgraham/082-news-from-the-front/) (2007年09月)
 - 099 [为什么要在经济不景气时创业](https://hijiangchuan.com/paulgraham/099-Why-to-Start-a-Startup-in-a-Bad-Economy/) (2008年10月)
 - 108 [为什么电视输了](https://hijiangchuan.com/paulgraham/108-Why-TV-Lost/) (2009年03月)
+- 121 [后媒介出版](https://hijiangchuan.com/paulgraham/121-Post-Medium-Publishing/) (2009年09月)
 - 122 [说服还是发现](https://hijiangchuan.com/paulgraham/122-Persuade-xor-Discover/) (2009年09月)
 - 123 [创业公司到底是什么样](https://hijiangchuan.com/paulgraham/123-What-Startups-Are-Really-Like/) (2009年10月)
 - 124 [苹果的错误](https://hijiangchuan.com/paulgraham/124-Apples-Mistake/) (2009年11月)
