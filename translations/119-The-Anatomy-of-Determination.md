@@ -64,6 +64,20 @@
 事实上，如果你想创造最大的[财富](https://hijiangchuan.com/paulgraham/028-How-to-Make-Wealth)，做法就是更多关注他们的需求而不是你的兴趣，然后用决心来弥补其中的差距。
 
 
+## 注释
+
+[1] 粗略地说。我在瓜子模型中所声称的，更接近于：决心 ∝ wd^m - k|w - d|^n，其中w为意志，d为纪律。
+
+[2] 这意味着，帮助整个社会最好的方式之一，就是创造一些[活动](http://startupschool.org)和[机构](http://ycombinator.com)，把有野心的人聚到一起。这就像从反应堆里抽出控制棒：他们释放的能量会激励其他有野心的人，而不是像平常那样被周围的普通人吸收。
+
+反过来说，一些欧洲国家试图让所有大学都没有显著差距，这可能是个错误。
+
+[3] 举例来说，意志力显然有两个子成分：**固执**和**精力**。只有前者，就会变成固执的惰性；只有后者，就会变成浮躁。随着意志坚强的人逐渐年长或丧失精力，他们往往会变得只是固执。
+
+感谢 Sam Altman、Jessica Livingston 和 Robert Morris 阅读本文初稿。
+
+
+
 英文版：[paulgraham.com/determination.html](https://paulgraham.com/determination.html)｜中文版：[HiJiangChuan.com/paulgraham/119-The-Anatomy-of-Determination](https://hijiangchuan.com/paulgraham/119-The-Anatomy-of-Determination)
 
 更新记录：
