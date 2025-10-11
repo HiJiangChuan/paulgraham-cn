@@ -91,6 +91,7 @@
 - 082 [来自前线的消息](https://hijiangchuan.com/paulgraham/082-news-from-the-front/) (2007年09月)
 - 099 [为什么要在经济不景气时创业](https://hijiangchuan.com/paulgraham/099-Why-to-Start-a-Startup-in-a-Bad-Economy/) (2008年10月)
 - 108 [为什么电视输了](https://hijiangchuan.com/paulgraham/108-Why-TV-Lost/) (2009年03月)
+- 116 [拉面盈利](https://hijiangchuan.com/paulgraham/116-Ramen-Profitable/) (2009年07月)
 - 117 [赛格威的问题](https://hijiangchuan.com/paulgraham/117-The-Trouble-with-the-Segway/) (2009年07月)
 - 118 [Kate在硅谷看到的事](https://hijiangchuan.com/paulgraham/118-What-Kate-Saw-in-Silicon-Valley/) (2009年08月)
 - 119 [决心的剖析](https://hijiangchuan.com/paulgraham/119-The-Anatomy-of-Determination/) (2009年09月)
