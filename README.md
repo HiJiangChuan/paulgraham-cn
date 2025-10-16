@@ -89,6 +89,7 @@
 - 080 [在脑海中构建程序](https://hijiangchuan.com/paulgraham/080-Holding-a-Program-in-Ones-Head/) (2007年08月)
 - 081 [如何避免死亡](https://hijiangchuan.com/paulgraham/081-How-Not-to-Die/) (2007年08月)
 - 082 [来自前线的消息](https://hijiangchuan.com/paulgraham/082-news-from-the-front/) (2007年09月)
+- 097 [“风险共担”的公司托管公司](https://hijiangchuan.com/paulgraham/097-The-Pooled-Risk-Company-Management-Company/) (2008年07月)
 - 098 [融资生存指南](https://hijiangchuan.com/paulgraham/098-A-Fundraising-Survival-Guide/) (2008年08月)
 - 099 [为什么要在经济不景气时创业](https://hijiangchuan.com/paulgraham/099-Why-to-Start-a-Startup-in-a-Bad-Economy/) (2008年10月)
 - 108 [为什么电视输了](https://hijiangchuan.com/paulgraham/108-Why-TV-Lost/) (2009年03月)
