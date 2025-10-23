@@ -89,6 +89,7 @@
 - 080 [在脑海中构建程序](https://hijiangchuan.com/paulgraham/080-Holding-a-Program-in-Ones-Head/) (2007年08月)
 - 081 [如何避免死亡](https://hijiangchuan.com/paulgraham/081-How-Not-to-Die/) (2007年08月)
 - 082 [来自前线的消息](https://hijiangchuan.com/paulgraham/082-news-from-the-front/) (2007年09月)
+- 083 [如何做哲学](https://hijiangchuan.com/paulgraham/083-How-to-Do-Philosophy/) (2007年09月)
 - 096 [城市与野心](https://hijiangchuan.com/paulgraham/096-Cities-and-Ambition/) (2008年05月)
 - 097 [“风险共担”的公司托管公司](https://hijiangchuan.com/paulgraham/097-The-Pooled-Risk-Company-Management-Company/) (2008年07月)
 - 098 [融资生存指南](https://hijiangchuan.com/paulgraham/098-A-Fundraising-Survival-Guide/) (2008年08月)
