@@ -98,4 +98,5 @@ Y Combinator 目前仍只有四个人，所以我们尽可能让一切标准化�
 英文版：[paulgraham.com/webstartups.html](https://paulgraham.com/webstartups.html)｜中文版：[HiJiangChuan.com/paulgraham/084-The-Future-of-Web-Startups](https://hijiangchuan.com/paulgraham/084-The-Future-of-Web-Startups)
 
 更新记录：
-- 2025-10-24 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
+- 2025-10-27 [HiJiangChuan](https://hijiangchuan.com) 初稿翻译，术语待验证；
+- 2025-10-27 重新梳理，修正专业词汇的使用；
