@@ -91,6 +91,7 @@
 - 082 [来自前线的消息](https://hijiangchuan.com/paulgraham/082-news-from-the-front/) (2007年09月)
 - 083 [如何做哲学](https://hijiangchuan.com/paulgraham/083-How-to-Do-Philosophy/) (2007年09月)
 - 084 [网络创业公司的未来](https://hijiangchuan.com/paulgraham/084-The-Future-of-Web-Startups/) (2007年10月)
+- 085 [为什么要搬到创业中心](https://hijiangchuan.com/paulgraham/085-Why-to-Move-to-a-Startup-Hub/) (2007年10月)
 - 095 [断开干扰](https://hijiangchuan.com/paulgraham/095-Disconnecting-Distraction/) (2008年05月)
 - 096 [城市与野心](https://hijiangchuan.com/paulgraham/096-Cities-and-Ambition/) (2008年05月)
 - 097 [“风险共担”的公司托管公司](https://hijiangchuan.com/paulgraham/097-The-Pooled-Risk-Company-Management-Company/) (2008年07月)
