@@ -95,6 +95,7 @@
 - 086 [创造新事物的六条原则](https://hijiangchuan.com/paulgraham/086-Six-Principles-for-Making-New-Things/) (2008年02月)
 - 087 [喷子](https://hijiangchuan.com/paulgraham/087-Trolls/) (2008年02月)
 - 088 [一种新的创业动物](https://hijiangchuan.com/paulgraham/088-A-New-Venture-Animal/) (2008年03月)
+- 089 [你本不该有领导](https://hijiangchuan.com/paulgraham/089-You-Werent-Meant-to-Have-a-Boss/) (2008年03月)
 - 095 [断开干扰](https://hijiangchuan.com/paulgraham/095-Disconnecting-Distraction/) (2008年05月)
 - 096 [城市与野心](https://hijiangchuan.com/paulgraham/096-Cities-and-Ambition/) (2008年05月)
 - 097 [“风险共担”的公司托管公司](https://hijiangchuan.com/paulgraham/097-The-Pooled-Risk-Company-Management-Company/) (2008年07月)
