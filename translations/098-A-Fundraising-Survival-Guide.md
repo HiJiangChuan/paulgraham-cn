@@ -1,6 +1,7 @@
 
 # 098 融资生存指南
-date: August 2008
+
+2008年8月
 
 想要创业吗？来申请 [Y Combinator](http://ycombinator.com/apply.html) 的资助。
 
