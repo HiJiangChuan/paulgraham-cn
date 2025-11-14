@@ -97,6 +97,7 @@
 - 088 [一种新的创业动物](https://hijiangchuan.com/paulgraham/088-A-New-Venture-Animal/) (2008年03月)
 - 089 [你本不该有领导](https://hijiangchuan.com/paulgraham/089-You-Werent-Meant-to-Have-a-Boss/) (2008年03月)
 - 090 [如何不同意：分歧的层级](https://hijiangchuan.com/paulgraham/090-How-to-Disagree/) (2008年03月)
+- 091 [我的那些领路人](https://hijiangchuan.com/paulgraham/091-Some-Heroes/) (2008年04月)
 - 095 [断开干扰](https://hijiangchuan.com/paulgraham/095-Disconnecting-Distraction/) (2008年05月)
 - 096 [城市与野心](https://hijiangchuan.com/paulgraham/096-Cities-and-Ambition/) (2008年05月)
 - 097 [“风险共担”的公司托管公司](https://hijiangchuan.com/paulgraham/097-The-Pooled-Risk-Company-Management-Company/) (2008年07月)
