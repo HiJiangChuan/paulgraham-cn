@@ -104,6 +104,7 @@
 - 098 [融资生存指南](https://hijiangchuan.com/paulgraham/098-A-Fundraising-Survival-Guide/) (2008年08月)
 - 099 [为什么要在经济不景气时创业](https://hijiangchuan.com/paulgraham/099-Why-to-Start-a-Startup-in-a-Bad-Economy/) (2008年10月)
 - 100 [“艺术家会交付”的另一半](https://hijiangchuan.com/paulgraham/100-The-Other-Half-of-Artists-Ship/) (2008年11月)
+- 101 [高分辨率社会](https://hijiangchuan.com/paulgraham/101-The-High-Res-Society/) (2008年12月)
 - 108 [为什么电视输了](https://hijiangchuan.com/paulgraham/108-Why-TV-Lost/) (2009年03月)
 - 116 [拉面盈利](https://hijiangchuan.com/paulgraham/116-Ramen-Profitable/) (2009年07月)
 - 117 [赛格威的问题](https://hijiangchuan.com/paulgraham/117-The-Trouble-with-the-Segway/) (2009年07月)
