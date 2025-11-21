@@ -107,6 +107,8 @@
 - 101 [高分辨率社会](https://hijiangchuan.com/paulgraham/101-The-High-Res-Society/) (2008年12月)
 - 102 [102 风险投资会成为这场衰退的牺牲品吗？](https://hijiangchuan.com/paulgraham/102-Could-VC-be-a-Casualty-of-the-Recession/) (2008年12月)
 - 103 [资历之后](https://hijiangchuan.com/paulgraham/103-After-Credentials/) (2008年12月)
+- 104 [让你的身份保持轻盈](https://hijiangchuan.com/paulgraham/104-Keep-Your-Identity-Small/) (2009年02月)
+- 105 [用13句话讲透创业](https://hijiangchuan.com/paulgraham/105-Startups-in-13-Sentences/) (2009年02月)
 - 108 [为什么电视输了](https://hijiangchuan.com/paulgraham/108-Why-TV-Lost/) (2009年03月)
 - 116 [拉面盈利](https://hijiangchuan.com/paulgraham/116-Ramen-Profitable/) (2009年07月)
 - 117 [赛格威的问题](https://hijiangchuan.com/paulgraham/117-The-Trouble-with-the-Segway/) (2009年07月)
