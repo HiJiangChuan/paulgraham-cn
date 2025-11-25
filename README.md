@@ -110,6 +110,7 @@
 - 104 [让你的身份保持轻盈](https://hijiangchuan.com/paulgraham/104-Keep-Your-Identity-Small/) (2009年02月)
 - 105 [用13句话讲透创业](https://hijiangchuan.com/paulgraham/105-Startups-in-13-Sentences/) (2009年02月)
 - 106 [我从 Hacker News 学到的东西](https://hijiangchuan.com/paulgraham/106-What-Ive-Learned-from-Hacker-News/) (2009年02月)
+- 107 [你能买下一个硅谷吗？也许吧。](https://hijiangchuan.com/paulgraham/107-Can-You-Buy-a-Silicon-Valley-Maybe/) (2009年02月)
 - 108 [为什么电视输了](https://hijiangchuan.com/paulgraham/108-Why-TV-Lost/) (2009年03月)
 - 116 [拉面盈利](https://hijiangchuan.com/paulgraham/116-Ramen-Profitable/) (2009年07月)
 - 117 [赛格威的问题](https://hijiangchuan.com/paulgraham/117-The-Trouble-with-the-Segway/) (2009年07月)
