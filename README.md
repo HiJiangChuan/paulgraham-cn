@@ -112,6 +112,7 @@
 - 106 [我从 Hacker News 学到的东西](https://hijiangchuan.com/paulgraham/106-What-Ive-Learned-from-Hacker-News/) (2009年02月)
 - 107 [你能买下一个硅谷吗？也许吧。](https://hijiangchuan.com/paulgraham/107-Can-You-Buy-a-Silicon-Valley-Maybe/) (2009年02月)
 - 108 [为什么电视输了](https://hijiangchuan.com/paulgraham/108-Why-TV-Lost/) (2009年03月)
+- 109 [如何成为天使投资人](https://hijiangchuan.com/paulgraham/109-How-to-Be-an-Angel-Investor/) (2009年03月)
 - 116 [拉面盈利](https://hijiangchuan.com/paulgraham/116-Ramen-Profitable/) (2009年07月)
 - 117 [赛格威的问题](https://hijiangchuan.com/paulgraham/117-The-Trouble-with-the-Segway/) (2009年07月)
 - 118 [Kate在硅谷看到的事](https://hijiangchuan.com/paulgraham/118-What-Kate-Saw-in-Silicon-Valley/) (2009年08月)
