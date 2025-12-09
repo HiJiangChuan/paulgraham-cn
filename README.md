@@ -152,6 +152,8 @@
 - 144 [定义财产](https://hijiangchuan.com/paulgraham/144-Defining-Property/) (2012年03月)
 - 158 [刻薄的人终将失败](https://hijiangchuan.com/paulgraham/158-Mean-People-Fail/) (2014年11月)
 - 163 [不要和企业并购发展部谈判](https://hijiangchuan.com/paulgraham/163-Dont-Talk-to-Corp-Dev/) (2015年01月)
+- 191 [从顺从到叛逆：顺从主义的四个象限](https://hijiangchuan.com/paulgraham/191-The-Four-Quadrants-of-Conformism/) (2020年07月)
+- 192 [财富税的影响模型](https://hijiangchuan.com/paulgraham/192-Modeling-a-Wealth-Tax/) (2020年08月)
 - 193 [早期作品](https://hijiangchuan.com/paulgraham/193-Early-Work/) (2020年10月)
 - 194 [如何独立思考](https://hijiangchuan.com/paulgraham/194-How-to-Think-for-Yourself/) (2020年11月)
 - 195 [Airbnb 创业记](https://hijiangchuan.com/paulgraham/195-The-Airbnbs/) (2020年12月)
