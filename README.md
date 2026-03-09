@@ -152,6 +152,7 @@
 - 144 [定义财产](https://hijiangchuan.com/paulgraham/144-Defining-Property/) (2012年03月)
 - 158 [刻薄的人终将失败](https://hijiangchuan.com/paulgraham/158-Mean-People-Fail/) (2014年11月)
 - 163 [不要和企业并购发展部谈判](https://hijiangchuan.com/paulgraham/163-Dont-Talk-to-Corp-Dev/) (2015年01月)
+- 175 [人生苦短](https://hijiangchuan.com/paulgraham/175-Life-is-Short/) (2016年01月)
 - 176 [如何让匹兹堡成为创业中心](https://hijiangchuan.com/paulgraham/176-How-to-Make-Pittsburgh-a-Startup-Hub/) (2016年04月)
 - 177 [发现的风险](https://hijiangchuan.com/paulgraham/177-The-Risk-of-Discovery/) (2017年01月)
 - 178 [魅力与权力](https://hijiangchuan.com/paulgraham/178-Charisma-Power/) (2017年01月)
